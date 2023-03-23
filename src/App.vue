@@ -1,5 +1,6 @@
 <script setup>
-    import Header from './components/header/Header.vue';
+    import Banner from './components/banner/Banner.vue';
+import Header from './components/header/Header.vue';
 </script>
 
 <template>
@@ -8,7 +9,7 @@
   </header>
 
   <main>
-    
+    <Banner></Banner>
   </main>
 </template>
 

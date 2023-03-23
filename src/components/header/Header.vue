@@ -29,6 +29,7 @@
     align-items: center;
 }
 .header-container div:nth-child(1) {
+    margin-left: 30px;
 }
 .header-container div:nth-child(2) {
     background-color: green;
@@ -36,6 +37,8 @@
 
 button {
     all: unset;
+    cursor: pointer;
+    font-size: 14px;
 }
 
 ul {
