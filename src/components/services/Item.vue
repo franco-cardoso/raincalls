@@ -11,12 +11,14 @@ h2 {
     font-size: 20px;
     font-weight: bold;
     color: var(--dark-text);
+    overflow: hidden;
     margin: 10px 0;
 }
 
 p {
     font-size: 18px;
     line-height: 1.4;
+    overflow: hidden;
 }
 .item-container {
     display: flex;
@@ -32,14 +34,21 @@ p {
     text-align: center;
     margin: 2rem;
 }
+
+@media (max-width: 500px) {
+    .item-container {
+        width: 250px;
+        height: 420px;
+    }
+}
 </style>
 
 <script>
-    export default {
-        name: "Item",
-        props: {
-            title: String,
-            text: String
-        }
-    }
+export default {
+    name: "Item",
+    props: {
+        title: String,
+        text: String,
+    },
+};
 </script>

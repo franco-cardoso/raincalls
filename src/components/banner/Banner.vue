@@ -12,18 +12,19 @@
 section {
     width: 100%;
     height: 90vh;
+    /* height: 100%; */
     background-color: #ffffff;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    align-items: flex-start;
     z-index: -1;
     overflow-y: hidden;
 }
 
 img, video {
-    width: 100%;
-    /* height: 100%; */
-    filter: brightness(0.8) blur(5px);
+    min-height: 100%;
+    min-width: 100%;
+    filter: brightness(0.8) blur(3px);
+    position: absolute;
 }
 
 h1 {

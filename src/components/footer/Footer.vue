@@ -72,4 +72,16 @@ li {
 .f1-content div {
     margin-bottom: 2rem;
 }
+
+@media (max-width: 1200px) {
+    section {
+        padding: 3rem 5rem;
+    }
+}
+
+@media (max-width: 720px) {
+    section {
+        padding: 3rem 0;
+    }
+}
 </style>

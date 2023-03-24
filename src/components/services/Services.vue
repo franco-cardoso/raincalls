@@ -36,8 +36,27 @@ section {
     /* box-shadow: 0px 10px 50px 15px black; */
 
     grid-template-columns: 1fr 1fr 1fr;
-    margin: 0 128px;
+    /* margin: 0 128px; */
     /* display: flex; */
+}
+
+@media (max-width: 1800px) {
+    .services-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (max-width: 1280px) {
+    section {
+        top: 0;
+        margin: 0;
+    }
+}
+
+@media (max-width: 920px) {
+    .services-grid {
+        grid-template-columns: 1fr;
+    }
 }
 </style>
 
