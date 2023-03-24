@@ -13,7 +13,7 @@ import Reviews from "./components/reviews/Reviews.vue";
     <main>
         <Banner></Banner>
         <Services></Services>
-        <Reviews></Reviews>
+        <!-- <Reviews></Reviews> -->
     </main>
 </template>
 

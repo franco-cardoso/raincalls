@@ -16,7 +16,7 @@ h1 {
 }
 
 section {
-    margin: 30px 0 0 0;
+    margin: 3rem 0;
     display: flex;
     justify-content: center;
     align-items: center;
