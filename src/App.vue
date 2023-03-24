@@ -2,6 +2,7 @@
 import Banner from "./components/banner/Banner.vue";
 import Header from "./components/header/Header.vue";
 import Services from "./components/services/Services.vue"
+import Reviews from "./components/reviews/Reviews.vue";
 </script>
 
 <template>
@@ -12,6 +13,7 @@ import Services from "./components/services/Services.vue"
     <main>
         <Banner></Banner>
         <Services></Services>
+        <Reviews></Reviews>
     </main>
 </template>
 

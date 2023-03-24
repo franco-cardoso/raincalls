@@ -1,13 +1,13 @@
 <template>
-    <div class="banner-container">
-        <h1>Banner</h1>
+    <div>
+        <h1>REVIEWS</h1>
     </div>
 </template>
 
 <style scoped>
-    .banner-container {
+    div {
+        height: 500px;
         width: 100%;
-        height: 80vh;
         background-color: #505050;
         display: flex;
         justify-content: center;
@@ -15,6 +15,6 @@
     }
 
     h1 {
-        color: #999;
+        color: var(--dark-text);
     }
 </style>
