@@ -26,7 +26,7 @@ import Logo from './logo-no-background.svg'
     grid-template-columns: 0.5fr 0.5fr 1fr;
     height: v-bind("scrollPos <= 300 ? '100vh' : '110px' ");
     /* top: v-bind("scrollPos <= 300 ? '0' : '-80px' "); */
-    padding: v-bind("scrollPos <= 300 ? '0 0' : '0px 6rem' ");
+    padding: v-bind("scrollPos <= 300 ? '0 2rem 0 0' : '0px 6rem' ");
     background-color: v-bind("scrollPos <= 300 ? '' : 'white' ");
     box-shadow: v-bind("scrollPos <= 300 ? '' : '0px -35px 50px 10px black'");
 }

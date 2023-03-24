@@ -34,6 +34,7 @@ ul {
     list-style: none;
     gap: 20px;
     width: 100%;
+    text-align: center;
 }
 </style>
 
