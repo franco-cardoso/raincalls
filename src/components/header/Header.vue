@@ -1,14 +1,12 @@
 <script setup>
 import Navbar from "./Navbar.vue";
 // import Logo from "./Logo.vue";
-import Logo from "./logo-no-background.svg";
+import Logo from "../../assets/logo-no-background.svg";
 </script>
 
 <template>
     <div class="header-container">
         <div class="logo-wrapper">
-            <!-- <Logo></Logo> -->
-            <!-- <Logo class="logo"></Logo> -->
             <img class="logo" :src="Logo" alt="" />
         </div>
         <div></div>
@@ -24,7 +22,7 @@ import Logo from "./logo-no-background.svg";
     align-items: center;
     top: v-bind("scrollPos <= headerSizeChange ? '-10vh' : '0px' ");
     width: 100%;
-    transition: 2s;
+    transition: 1.5s;
     grid-template-columns: 0.5fr 0.4fr 1fr;
     height: v-bind("scrollPos <= headerSizeChange ? '100vh' : '80px' ");
     /* top: v-bind("scrollPos <= headerSizeChange ? '0' : '-80px' "); */
@@ -38,7 +36,7 @@ import Logo from "./logo-no-background.svg";
 } */
 
 .logo-wrapper {
-    transition: 2s;
+    transition: 1.5s;
     padding: 10px 0;
     height: v-bind("scrollPos <= headerSizeChange ? '1000px' : '80px' ");
     width: v-bind("scrollPos <= headerSizeChange ? '1000px' : '250px' ");

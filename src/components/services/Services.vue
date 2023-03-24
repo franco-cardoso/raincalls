@@ -1,5 +1,6 @@
 <template>
-    <section id="specialties">
+    <section>
+        <span style="position: relative; top: -20px; background-color: red;" id="specialties"></span>
         <h1>OUR SPECIALTIES</h1>
         <div class="services-grid" >
             <div v-for="item in items">
@@ -29,6 +30,7 @@ section {
 .services-grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    margin: 0 128px;
 }
 </style>
 

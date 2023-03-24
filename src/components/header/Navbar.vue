@@ -1,10 +1,10 @@
 <template>
     <nav>
         <ul>
-            <li><button>HOME</button></li>
-            <li><button>SERVICES & BENEFITS</button></li>
-            <li><button>WHY US</button></li>
-            <li><button>CONTACT US</button></li>
+            <li><a href="#home">HOME</a></li>
+            <li><a href="#specialties">OUR SPECIALTIES</a></li>
+            <li><a href="#info">WHY US</a></li>
+            <li><a href="#contact">CONTACT US</a></li>
         </ul>
     </nav>
 </template>
@@ -14,7 +14,7 @@ nav {
     display: flex;
     justify-content: flex-end;
 }
-button {
+a {
     all: unset;
     cursor: pointer;
     font-size: 18px;
@@ -25,7 +25,7 @@ button {
     color: v-bind("scrollPos <= 200 ? '#fff' : '#000'");
 }
 
-button:hover {
+a:hover {
     /* font-size: 17px; */
     text-shadow: v-bind("scrollPos <= 200 ? '0px 0px 3px white' : '0px 0px 1px black'");
     transform: scale(1.05);

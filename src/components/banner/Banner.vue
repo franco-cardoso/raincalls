@@ -1,5 +1,5 @@
 <template>
-    <section>
+    <section id="home">
         <!-- <img src="../../assets/rain.webm" alt=""> -->
         <video autoplay loop muted>
             <source src="../../assets/rain.webm" type="video/webm" />

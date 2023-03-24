@@ -1,5 +1,5 @@
 <template>
-    <section>
+    <section id="info">
         <h1>Why work with Raincalls?</h1>
         <div class="content">
             <div>
