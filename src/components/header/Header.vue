@@ -21,6 +21,7 @@ import Logo from "./logo-no-background.svg";
     display: grid;
     /* height: 5rem; */
     position: fixed;
+    align-items: center;
     width: 100%;
     transition: 2s;
     grid-template-columns: 0.5fr 0.5fr 1fr;
@@ -62,8 +63,33 @@ nav {
 
 @media (max-width: 1600px) {
     .logo-wrapper {
-        height: v-bind("scrollPos <= headerSizeChange ? '100%' : '80px' ");
-        width: v-bind("scrollPos <= headerSizeChange ? '700px' : '250px' ");
+        height: v-bind("scrollPos <= headerSizeChange ? '180%' : '80px' ");
+        width: v-bind("scrollPos <= headerSizeChange ? '180%' : '250px' ");
+    }
+}
+
+@media (max-width: 920px) {
+    .header-container {
+        display: grid;
+        grid-template-columns: 100%;
+        grid-template-rows: 1fr 0fr 1fr;
+        padding: 0;
+        align-items: end;
+        gap: 2rem;
+    }
+    .logo-wrapper {
+        height: 230px;
+        padding: 0 30px;
+        width: 100%;
+        margin: 0;
+    }
+
+    .header-container div:nth-child(1) {
+        margin-left: 0px;
+    }
+
+    nav {
+        align-self: flex-start;
     }
 }
 </style>

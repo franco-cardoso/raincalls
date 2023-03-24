@@ -43,6 +43,12 @@ li {
     align-items: center;
 }
 
+@media (max-width: 920px) { 
+    ul {
+        justify-content: center;
+    }
+}
+
 </style>
 
 <script>
