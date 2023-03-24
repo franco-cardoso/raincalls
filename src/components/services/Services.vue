@@ -1,8 +1,8 @@
 <template>
     <section>
-        <span style="position: relative; top: -20px; background-color: red;" id="specialties"></span>
+        <span style="position: relative; top: -20px; background-color: red" id="specialties"></span>
         <h1>OUR SPECIALTIES</h1>
-        <div class="services-grid" >
+        <div class="services-grid">
             <div v-for="item in items">
                 <Item :title="item.title" :text="item.text"></Item>
             </div>
@@ -31,6 +31,7 @@ section {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     margin: 0 128px;
+    /* display: flex; */
 }
 </style>
 
@@ -39,19 +40,19 @@ import Item from "./Item.vue";
 const items = [
     {
         title: "Health",
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam commodo et ex a convallis. Suspendisse tempor risus non consequat maximus. Aenean maximus elit vitae dui ornare accumsan. Aliquam et fringilla neque. Suspendisse quis turpis vitae sem rhoncus consectetur. Mauris finibus vestibulum porta. Mauris blandit lorem sagittis dapibus blandit",
+        text: "We exclusively acquire high-volume, fully compliant traffic through an extensive screening process that has been approved by some of the largest purchasers in the United States, including those in the Medicare, Final Expense, ACA, and many other sectors!",
     },
     {
         title: "Legal",
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam commodo et ex a convallis. Suspendisse tempor risus non consequat maximus. Aenean maximus elit vitae dui ornare accumsan. Aliquam et fringilla neque. Suspendisse quis turpis vitae sem rhoncus consectetur. Mauris finibus vestibulum porta. Mauris blandit lorem sagittis dapibus blandit",
+        text: "We collaborate with leading companies in the United States that maintain connections to a network of legal professionals in the legal field. Together, we have developed a process that guarantees all leads are unsolicited and originate from high-quality, direct interest opt-ins, where individuals are genuinely interested in exploring their legal options.",
     },
     {
         title: "Solar",
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam commodo et ex a convallis. Suspendisse tempor risus non consequat maximus. Aenean maximus elit vitae dui ornare accumsan. Aliquam et fringilla neque. Suspendisse quis turpis vitae sem rhoncus consectetur. Mauris finibus vestibulum porta. Mauris blandit lorem sagittis dapibus blandit",
+        text: "We excel in identifying the perfect consumer for solar products, taking into account factors such as zip code, income, and historical intent. We make certain that our solar media purchases can seamlessly integrate into any business model, regardless of its size or scope!",
     },
     {
         title: "Other Verticals",
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam commodo et ex a convallis. Suspendisse tempor risus non consequat maximus. Aenean maximus elit vitae dui ornare accumsan. Aliquam et fringilla neque. Suspendisse quis turpis vitae sem rhoncus consectetur. Mauris finibus vestibulum porta. Mauris blandit lorem sagittis dapibus blandit",
+        text: "Our operations span the entire lead generation spectrum. With over a decade of resources and a team of specialists covering the entire market, we can obtain traffic in virtually any domain. Whether your focus is on high volume or a niche product offering, we're here to assist you!",
     },
     {
         title: "Rapid Pace",

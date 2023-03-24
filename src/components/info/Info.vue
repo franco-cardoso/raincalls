@@ -3,10 +3,7 @@
         <h1>Why work with Raincalls?</h1>
         <div class="content">
             <div>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam commodo et ex a convallis. Suspendisse
-                tempor risus non consequat maximus. Aenean maximus elit vitae dui ornare accumsan. Aliquam et fringilla
-                neque. Suspendisse quis turpis vitae sem rhoncus consectetur. Mauris finibus vestibulum porta. Mauris
-                blandit lorem sagittis dapibus blandit
+                In the competitive world of digital marketing, businesses need partners who can deliver results and drive success. Rain Calls is a team of experienced lead generation and pay-per-call industry veterans with over 10 years of experience in a diverse range of verticals. Our expertise, commitment to excellence, and impressive track record have consistently amazed our clients and helped them achieve their Cost Per Acquisition (CPA) goals. We're not just another marketing agency; we're the partner you need to make it "Rain Calls" on your business.
             </div>
             <div class="img-wrapper">
                 <img src="../../assets/reporting.png" alt="">
@@ -30,18 +27,25 @@ section {
 }
 
 .content {
-    display: grid;
-    grid-template-columns: 0.5fr 1fr;
+    display: flex;
+    flex-direction: column;
+    /* grid-template-columns: 0.5fr 1fr; */
     margin: 0 8rem;
     gap: 1rem;
     font-size: 32px;
     color: var(--dark-text);
 }
 
+.img-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 
 
 img {
-    width: 100%;
+    width: 75%;
     border-radius: 15px;
 }
 

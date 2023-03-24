@@ -23,6 +23,7 @@
         padding: 20px;
         color: rgb(235, 235, 235);
         border-radius: 4px;
+        margin: 3rem 0 0 0;
     }
     
     button:hover {
@@ -42,7 +43,7 @@
     }
 
     h2 {
-        margin: 2rem 0;
+        margin: 2rem 15px;
         color: var(--dark-text);
         font-weight: bold;
         font-size: 32px;
