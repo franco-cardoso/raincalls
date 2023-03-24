@@ -20,7 +20,7 @@ import Logo from "../../assets/logo-no-background.svg";
     /* height: 5rem; */
     position: fixed;
     align-items: center;
-    top: v-bind("scrollPos <= headerSizeChange ? '-10vh' : '0px' ");
+    top: v-bind("scrollPos <= headerSizeChange ? '-20vh' : '0px' ");
     width: 100%;
     transition: 1s;
     grid-template-columns: 0.5fr 0.4fr 1fr;

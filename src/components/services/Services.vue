@@ -17,18 +17,24 @@ h1 {
 }
 
 section {
-    /* margin: 3rem 0; */
+    margin: 0rem 10rem;
     padding: 3rem 0;
+    border-radius: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    box-shadow: 0px 10px 50px 15px black;
+    /* box-shadow: 0px 10px 50px 15px black; */
     z-index: 1;
+    position: relative;
+    top: -100px;
+    background-color: white;
 }
 
 .services-grid {
     display: grid;
+    /* box-shadow: 0px 10px 50px 15px black; */
+
     grid-template-columns: 1fr 1fr 1fr;
     margin: 0 128px;
     /* display: flex; */
@@ -39,15 +45,15 @@ section {
 import Item from "./Item.vue";
 const items = [
     {
-        title: "Health",
+        title: "Health Insurances",
         text: "We exclusively acquire high-volume, fully compliant traffic through an extensive screening process that has been approved by some of the largest purchasers in the United States, including those in the Medicare, Final Expense, ACA, and many other sectors!",
     },
     {
-        title: "Legal",
+        title: "Legal & Mass Torts",
         text: "We collaborate with leading companies in the United States that maintain connections to a network of legal professionals in the legal field. Together, we have developed a process that guarantees all leads are unsolicited and originate from high-quality, direct interest opt-ins, where individuals are genuinely interested in exploring their legal options.",
     },
     {
-        title: "Solar",
+        title: "Solar Customers",
         text: "We excel in identifying the perfect consumer for solar products, taking into account factors such as zip code, income, and historical intent. We make certain that our solar media purchases can seamlessly integrate into any business model, regardless of its size or scope!",
     },
     {
