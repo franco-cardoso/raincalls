@@ -9,6 +9,7 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
   },
   "dependencies": {
+    "svg-to-vue-component": "^0.3.8",
     "vue": "^3.2.47",
     "vue-gtag": "^2.0.1",
     "vue-star-rating": "^2.1.0"

@@ -13,7 +13,6 @@ import Footer from "./components/footer/Footer.vue";
     </header>
 
     <main>
-        <h1></h1>
         <Banner></Banner>
         <Services></Services>
         <Info></Info>

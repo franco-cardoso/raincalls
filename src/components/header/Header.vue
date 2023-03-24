@@ -1,12 +1,15 @@
 <script setup>
 import Navbar from "./Navbar.vue";
-import Logo from "./Logo.vue";
+// import Logo from "./Logo.vue";
+import Logo from './logo-no-background.svg'
 </script>
 
 <template>
     <div class="header-container">
         <div class="logo-wrapper">
-            <Logo></Logo>
+            <!-- <Logo></Logo> -->
+            <!-- <Logo class="logo"></Logo> -->
+            <img class="logo" :src="Logo" alt="">
         </div>
         <div></div>
         <Navbar></Navbar>
@@ -18,26 +21,31 @@ import Logo from "./Logo.vue";
     display: grid;
     /* height: 5rem; */
     position: fixed;
-    height: v-bind("scrollPos <= 300 ? '100vh' : '0px' ");
+    width: 100%;
     transition: 2s;
     grid-template-columns: 0.5fr 0.5fr 1fr;
-    /* margin: 25px; */
+    height: v-bind("scrollPos <= 300 ? '100vh' : '110px' ");
+    /* top: v-bind("scrollPos <= 300 ? '0' : '-80px' "); */
+    padding: v-bind("scrollPos <= 300 ? '0 0' : '0px 6rem' ");
+    background-color: v-bind("scrollPos <= 300 ? '' : 'white' ");
+    box-shadow: v-bind("scrollPos <= 300 ? '' : '0px -35px 50px 10px black'");
 }
 
-.header-container-scroll {
-    transition: 1s;
-    position: fixed;
-    height: auto;
-}
 
 /* h1 {
     margin: 25px;
 } */
 
 .logo-wrapper {
-    /* margin: 50vh 0; */
     transition: 2s;
-    width: v-bind("scrollPos <= 300 ? '' : '256px' ");
+    padding: 10px 0;
+    height: v-bind("scrollPos <= 300 ? '1000px' : '100px' ");
+    width: v-bind("scrollPos <= 300 ? '1000px' : '270px' ");
+}
+
+.logo {
+    height: 100%;
+    width: 100%;
 }
 
 nav {
@@ -60,5 +68,8 @@ export default {
     props: {
         scrollPos: Number,
     },
+    components: {
+        Logo
+    }
 };
 </script>
