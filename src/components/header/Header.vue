@@ -24,9 +24,9 @@ import Logo from './logo-no-background.svg'
     width: 100%;
     transition: 2s;
     grid-template-columns: 0.5fr 0.5fr 1fr;
-    height: v-bind("scrollPos <= 300 ? '100vh' : '110px' ");
+    height: v-bind("scrollPos <= 300 ? '100vh' : '80px' ");
     /* top: v-bind("scrollPos <= 300 ? '0' : '-80px' "); */
-    padding: v-bind("scrollPos <= 300 ? '0 2rem 0 0' : '0px 6rem' ");
+    padding: v-bind("scrollPos <= 300 ? '0 2rem 0 0' : '0px 3rem' ");
     background-color: v-bind("scrollPos <= 300 ? '' : 'white' ");
     box-shadow: v-bind("scrollPos <= 300 ? '' : '0px -35px 50px 10px black'");
 }
@@ -39,8 +39,8 @@ import Logo from './logo-no-background.svg'
 .logo-wrapper {
     transition: 2s;
     padding: 10px 0;
-    height: v-bind("scrollPos <= 300 ? '1000px' : '100px' ");
-    width: v-bind("scrollPos <= 300 ? '1000px' : '270px' ");
+    height: v-bind("scrollPos <= 300 ? '1000px' : '80px' ");
+    width: v-bind("scrollPos <= 300 ? '1000px' : '250px' ");
 }
 
 .logo {
