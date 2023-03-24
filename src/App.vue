@@ -17,4 +17,12 @@ import Reviews from "./components/reviews/Reviews.vue";
     </main>
 </template>
 
-<style scoped></style>
+<style scoped>
+    header {
+        position: fixed;
+        top: 0;
+        z-index: 1;
+        background-color: white;
+        width: 100%;
+    }
+</style>

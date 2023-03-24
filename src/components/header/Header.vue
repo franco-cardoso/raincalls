@@ -15,9 +15,14 @@ import Navbar from "./Navbar.vue";
 <style scoped>
 .header-container {
     display: grid;
-    height: 5rem;
+    /* height: 5rem; */
     grid-template-columns: 0.5fr 1fr 0.5fr;
 }
+
+h1 {
+    margin: 25px;
+}
+
 nav {
     display: flex;
     justify-content: center;
