@@ -1,5 +1,5 @@
 <template>
-    <section>
+    <section id="specialties">
         <h1>OUR SPECIALTIES</h1>
         <div class="services-grid" >
             <div v-for="item in items">
@@ -16,11 +16,14 @@ h1 {
 }
 
 section {
-    margin: 3rem 0;
+    /* margin: 3rem 0; */
+    padding: 3rem 0;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    box-shadow: 0px 10px 50px 15px black;
+    z-index: 1;
 }
 
 .services-grid {

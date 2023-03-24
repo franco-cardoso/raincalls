@@ -12,7 +12,7 @@ import Logo from "./logo-no-background.svg";
             <img class="logo" :src="Logo" alt="" />
         </div>
         <div></div>
-        <Navbar></Navbar>
+        <Navbar :scrollPos="scrollPos"></Navbar>
     </div>
 </template>
 
@@ -22,6 +22,7 @@ import Logo from "./logo-no-background.svg";
     /* height: 5rem; */
     position: fixed;
     align-items: center;
+    top: v-bind("scrollPos <= headerSizeChange ? '-10vh' : '0px' ");
     width: 100%;
     transition: 2s;
     grid-template-columns: 0.5fr 0.4fr 1fr;

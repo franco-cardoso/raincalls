@@ -17,16 +17,18 @@ nav {
 button {
     all: unset;
     cursor: pointer;
-    font-size: 16px;
+    font-size: 18px;
+    text-shadow: v-bind("scrollPos <= 200 ? '0px 0px 3px black' : '0px 0px 0px black'");
     transition: 1s;
     padding: 5px;
     align-items: center;
+    color: v-bind("scrollPos <= 200 ? '#fff' : '#000'");
 }
 
 button:hover {
     /* font-size: 17px; */
+    text-shadow: v-bind("scrollPos <= 200 ? '0px 0px 3px white' : '0px 0px 1px black'");
     transform: scale(1.05);
-    text-shadow: 0px 0px 1px black;
 }
 
 ul {
@@ -41,6 +43,7 @@ ul {
 li {
     display: flex;
     align-items: center;
+    overflow: hidden;
 }
 
 @media (max-width: 920px) { 
@@ -54,5 +57,9 @@ li {
 <script>
 export default {
     name: "Navbar",
+    props: {
+        scrollPos: Number,
+    }
+    
 };
 </script>

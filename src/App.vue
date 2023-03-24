@@ -34,6 +34,7 @@ header * {
     justify-content: center;
     overflow-y: hidden;
     box-shadow: 0px -18px 30px 1px black;
+    z-index: 99999;
 }
 
 footer {

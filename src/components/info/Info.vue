@@ -15,12 +15,15 @@
 
 <style scoped>
 section {
-    margin: 5rem 0;
+    /* margin: 5rem 0; */
+    padding: 5rem 0;
     gap: 4rem;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    z-index: 2;
+    background-color: white;
 }
 
 .content {
