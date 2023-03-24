@@ -26,5 +26,6 @@ import Info from "./components/info/Info.vue";
         z-index: 1;
         background-color: white;
         width: 100%;
-    }
+        box-shadow: 0px -18px 30px 1px black;
+}
 </style>
