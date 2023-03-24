@@ -24,7 +24,7 @@ import Logo from "./logo-no-background.svg";
     align-items: center;
     width: 100%;
     transition: 2s;
-    grid-template-columns: 0.5fr 0.5fr 1fr;
+    grid-template-columns: 0.5fr 0.4fr 1fr;
     height: v-bind("scrollPos <= headerSizeChange ? '100vh' : '80px' ");
     /* top: v-bind("scrollPos <= headerSizeChange ? '0' : '-80px' "); */
     padding: v-bind("scrollPos <= headerSizeChange ? '0 2rem 0 0' : '0px 3rem' ");
@@ -61,7 +61,7 @@ nav {
     margin-left: 30px;
 }
 
-@media (max-width: 1600px) {
+@media (max-width: 1700px) {
     .logo-wrapper {
         height: v-bind("scrollPos <= headerSizeChange ? '180%' : '80px' ");
         width: v-bind("scrollPos <= headerSizeChange ? '180%' : '250px' ");
@@ -90,6 +90,12 @@ nav {
 
     nav {
         align-self: flex-start;
+    }
+}
+
+@media (max-width: 720px) {
+    .header-container nav {
+        display: none;
     }
 }
 </style>

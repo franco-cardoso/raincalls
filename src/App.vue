@@ -25,13 +25,14 @@ import Footer from "./components/footer/Footer.vue";
 </template>
 
 <style scoped>
-header {
+header * {
     /* position: fixed; */
     z-index: 1;
     /* background-color: white; */
     /* width: 100%; */
     display: flex;
     justify-content: center;
+    overflow-y: hidden;
     box-shadow: 0px -18px 30px 1px black;
 }
 
