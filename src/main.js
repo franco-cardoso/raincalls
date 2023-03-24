@@ -4,5 +4,5 @@ import './assets/main.css'
 import VueGtag from "vue-gtag";
 
 createApp(App).use(VueGtag, {
-  config: { id: "G-QP22561NME" }
+  config: { id: "G-W8MHNPM82N" }
 }).mount("#app");

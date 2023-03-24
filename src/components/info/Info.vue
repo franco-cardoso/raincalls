@@ -8,7 +8,9 @@
                 neque. Suspendisse quis turpis vitae sem rhoncus consectetur. Mauris finibus vestibulum porta. Mauris
                 blandit lorem sagittis dapibus blandit
             </div>
-            <div class="decor"></div>
+            <div class="img-wrapper">
+                <img src="../../assets/reporting.png" alt="">
+            </div>
         </div>
     </section>
 </template>
@@ -23,22 +25,24 @@ section {
     align-items: center;
     flex-direction: column;
     z-index: 2;
+    overflow: visible;
     background-color: white;
 }
 
 .content {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 0.5fr 1fr;
     margin: 0 8rem;
-    gap: 12rem;
+    gap: 1rem;
     font-size: 32px;
     color: var(--dark-text);
 }
 
-.decor {
+
+
+img {
     width: 100%;
-    height: 100%;
-    background-color: #505050;
+    border-radius: 15px;
 }
 
 h1 {
