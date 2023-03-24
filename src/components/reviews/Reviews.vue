@@ -1,11 +1,11 @@
 <template>
-    <div>
+    <section>
         <h1>REVIEWS</h1>
-    </div>
+    </section>
 </template>
 
 <style scoped>
-    div {
+    section {
         height: 500px;
         width: 100%;
         background-color: #505050;

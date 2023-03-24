@@ -1,11 +1,11 @@
 <template>
-    <div class="banner-container">
+    <section>
         <h1>Banner</h1>
-    </div>
+    </section>
 </template>
 
 <style scoped>
-    .banner-container {
+    section {
         width: 100%;
         height: 80vh;
         background-color: #505050;

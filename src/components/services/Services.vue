@@ -1,12 +1,12 @@
 <template>
-    <div class="services-container">
+    <section>
         <h1>SERVICES AND BENEFITS</h1>
         <div class="services-grid" >
             <div v-for="item in items">
                 <Item :title="item.title" :text="item.text"></Item>
             </div>
         </div>
-    </div>
+    </section>
 </template>
 
 <style scoped>
@@ -15,7 +15,7 @@ h1 {
     color: var(--dark-text);
 }
 
-.services-container {
+section {
     margin: 30px 0 0 0;
     display: flex;
     justify-content: center;
