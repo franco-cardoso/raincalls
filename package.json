@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "vue": "^3.2.47",
+    "vue-gtag": "^2.0.1",
     "vue-star-rating": "^2.1.0"
   },
   "devDependencies": {
