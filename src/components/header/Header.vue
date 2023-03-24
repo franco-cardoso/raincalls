@@ -22,7 +22,7 @@ import Logo from "../../assets/logo-no-background.svg";
     align-items: center;
     top: v-bind("scrollPos <= headerSizeChange ? '-10vh' : '0px' ");
     width: 100%;
-    transition: 1.5s;
+    transition: 1s;
     grid-template-columns: 0.5fr 0.4fr 1fr;
     height: v-bind("scrollPos <= headerSizeChange ? '100vh' : '80px' ");
     /* top: v-bind("scrollPos <= headerSizeChange ? '0' : '-80px' "); */
@@ -36,7 +36,7 @@ import Logo from "../../assets/logo-no-background.svg";
 } */
 
 .logo-wrapper {
-    transition: 1.5s;
+    transition: 1s;
     padding: 10px 0;
     height: v-bind("scrollPos <= headerSizeChange ? '1000px' : '80px' ");
     width: v-bind("scrollPos <= headerSizeChange ? '1000px' : '250px' ");
@@ -110,5 +110,5 @@ export default {
     },
 };
 
-const headerSizeChange = 200;
+const headerSizeChange = 150;
 </script>
