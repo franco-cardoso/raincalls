@@ -1,7 +1,7 @@
 <template>
     <section id="contact">
-        <h1>Are you a publisher or advertiser?</h1>
-        <h2>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</h2>
+        <h1>Want to work with us?</h1>
+        <h2>Sign up below to work with us.</h2>
         <div class="buttons">
             <button>Publishers Click Here</button>
             <button>Advertisers Click Here</button>
