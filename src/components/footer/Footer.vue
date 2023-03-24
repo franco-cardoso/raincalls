@@ -1,0 +1,84 @@
+<template>
+    <section>
+        <div>
+            <h2>RAINCALLS</h2>
+
+            <div class="f1-content">
+                <div>
+                    <h3>Email</h3>
+                    <a href="mailto: sample@email.com">sample@email.com</a>
+                </div>
+
+                <div>
+                    <h3>Phone</h3>
+                    <span>000-000-0000</span>
+                </div>
+
+                <div>
+                    <h3>Address</h3>
+                    <span></span>
+                </div>
+            </div>
+        </div>
+
+        <div>
+            <h2>FOLLOW US</h2>
+        </div>
+
+        <div>
+            <h2>PRIVACY & TERMS</h2>
+            <ul>
+                <li><a href="#">Privacy Policy</a></li>
+                <li><a href="#">California Privacy Policy</a></li>
+                <li><a href="#">Terms and Conditions</a></li>
+                <li><a href="#">Code of Conduct</a></li>
+                <li><a href="#">Opt-Out / Unsubscribe</a></li>
+            </ul>
+        </div>
+    </section>
+</template>
+
+<style scoped>
+section {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    height: 500px;
+    padding: 4rem 20rem;
+    color: white;
+}
+
+section > div {
+    border-right: solid rgba(247, 247, 247, 0.116);
+    padding: 0 30px;
+    border-width: 0.1px;
+}
+
+section > div:first-child {
+    border-left: solid rgba(247, 247, 247, 0.116);
+    border-width: 0.1px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 3rem;
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+    color: #00aff2;
+}
+
+li {
+    margin-bottom: 15px;
+}
+
+.f1-content div {
+    margin-bottom: 2rem;
+}
+</style>

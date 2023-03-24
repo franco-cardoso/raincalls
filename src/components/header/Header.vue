@@ -20,9 +20,9 @@ import Navbar from "./Navbar.vue";
     margin: 25px;
 }
 
-h1 {
-    /* margin: 25px; */
-}
+/* h1 {
+    margin: 25px;
+} */
 
 nav {
     display: flex;
