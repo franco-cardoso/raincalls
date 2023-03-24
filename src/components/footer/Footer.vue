@@ -22,10 +22,6 @@
         </div>
 
         <div>
-            <h2>FOLLOW US</h2>
-        </div>
-
-        <div>
             <h2>PRIVACY & TERMS</h2>
             <ul>
                 <li><a href="#">Privacy Policy</a></li>
@@ -41,7 +37,7 @@
 <style scoped>
 section {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
     height: 500px;
     padding: 4rem 20rem;
     color: white;
