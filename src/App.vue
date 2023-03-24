@@ -9,10 +9,11 @@ import Footer from "./components/footer/Footer.vue";
 
 <template>
     <header>
-        <Header></Header>
+        <Header :scrollPos="windowTop"></Header>
     </header>
 
     <main>
+        <h1></h1>
         <Banner></Banner>
         <Services></Services>
         <Info></Info>
@@ -26,11 +27,12 @@ import Footer from "./components/footer/Footer.vue";
 
 <style scoped>
 header {
-    position: fixed;
-    top: 0;
+    /* position: fixed; */
     z-index: 1;
-    background-color: white;
-    width: 100%;
+    /* background-color: white; */
+    /* width: 100%; */
+    display: flex;
+    justify-content: center;
     box-shadow: 0px -18px 30px 1px black;
 }
 
@@ -38,3 +40,26 @@ footer {
     background-color: rgb(31, 31, 31);
 }
 </style>
+
+<script>
+export default {
+    name: "App",
+    data() {
+        return {
+            windowTop: 0,
+        };
+    },
+    mounted() {
+        window.addEventListener("scroll", this.onScroll);
+    },
+    beforeDestroy() {
+        window.removeEventListener("scroll", this.onScroll);
+    },
+    methods: {
+        onScroll(e) {
+            this.windowTop = e.target.documentElement.scrollTop;
+            console.log({ top: this.windowTop });
+        },
+    },
+};
+</script>

@@ -1,17 +1,17 @@
 <template>
     <section>
-        <h1>Banner</h1>
     </section>
 </template>
 
 <style scoped>
     section {
         width: 100%;
-        height: 80vh;
-        background-color: #505050;
+        height: 100vh;
+        background-color: #ffffff;
         display: flex;
         justify-content: center;
         align-items: center;
+        z-index: -1;
     }
 
     h1 {
