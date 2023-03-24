@@ -4,6 +4,7 @@ import Header from "./components/header/Header.vue";
 import Services from "./components/services/Services.vue"
 import Reviews from "./components/reviews/Reviews.vue";
 import Info from "./components/info/Info.vue";
+import Contact from "./components/contact/Contact.vue"
 </script>
 
 <template>
@@ -15,6 +16,7 @@ import Info from "./components/info/Info.vue";
         <Banner></Banner>
         <Services></Services>
         <Info></Info>
+        <Contact></Contact>
         <!-- <Reviews></Reviews> -->
     </main>
 </template>

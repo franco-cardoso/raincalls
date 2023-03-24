@@ -4,13 +4,12 @@
             <li><button>HOME</button></li>
             <li><button>SERVICES & BENEFITS</button></li>
             <li><button>WHY US</button></li>
-            <li><button>REVIEWS</button></li>
             <li><button>CONTACT US</button></li>
         </ul>
     </nav>
 </template>
 
-<style>
+<style scoped>
 nav {
     display: flex;
     justify-content: flex-end;
@@ -20,6 +19,7 @@ button {
     cursor: pointer;
     font-size: 16px;
     transition: 1s;
+    padding: 5px;
 }
 
 button:hover {
@@ -28,15 +28,13 @@ button:hover {
     text-shadow: 0px 0px 1px black;
 }
 
-
 ul {
-    display: flex;  
+    display: flex;
     justify-content: flex-end;
     list-style: none;
     gap: 20px;
     width: 100%;
 }
-
 </style>
 
 <script>
