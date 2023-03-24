@@ -13,6 +13,7 @@
 <style scoped>
 h1 {
     font-weight: 600;
+    font-size: 42px;
     color: var(--dark-text);
 }
 

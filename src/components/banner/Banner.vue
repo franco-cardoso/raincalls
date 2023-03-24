@@ -24,6 +24,7 @@ img, video {
     min-height: 100%;
     min-width: 100%;
     filter: brightness(0.8) blur(3px);
+    transform: scale(1.1);
     position: absolute;
 }
 

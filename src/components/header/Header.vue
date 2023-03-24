@@ -22,7 +22,7 @@ import Logo from "../../assets/logo-no-background.svg";
     align-items: center;
     top: v-bind("scrollPos <= headerSizeChange ? '-20vh' : '0px' ");
     width: 100%;
-    transition: 1s;
+    transition: 800ms;
     grid-template-columns: 0.5fr 0.4fr 1fr;
     height: v-bind("scrollPos <= headerSizeChange ? '100vh' : '80px' ");
     /* top: v-bind("scrollPos <= headerSizeChange ? '0' : '-80px' "); */
@@ -36,7 +36,7 @@ import Logo from "../../assets/logo-no-background.svg";
 } */
 
 .logo-wrapper {
-    transition: 1s;
+    transition: 800ms;
     padding: 10px 0;
     height: v-bind("scrollPos <= headerSizeChange ? '1000px' : '80px' ");
     width: v-bind("scrollPos <= headerSizeChange ? '1000px' : '250px' ");
@@ -78,9 +78,11 @@ nav {
     }
     .logo-wrapper {
         height: 230px;
-        padding: 0 30px;
+        padding: 0 10px;
         width: 100%;
         margin: 0;
+        height: v-bind("scrollPos <= headerSizeChange ? '230px' : '80px' ");
+        width: v-bind("scrollPos <= headerSizeChange ? '100%' : '170px' ");
     }
 
     .header-container div:nth-child(1) {

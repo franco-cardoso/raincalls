@@ -12,6 +12,7 @@
 <style scoped>
     section {
         margin: 8rem;
+        text-align: center;
     }
 
     button {
