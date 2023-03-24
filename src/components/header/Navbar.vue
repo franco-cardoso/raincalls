@@ -13,19 +13,30 @@
 <style>
 nav {
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
 }
 button {
     all: unset;
     cursor: pointer;
     font-size: 16px;
+    transition: 1s;
 }
 
+button:hover {
+    /* font-size: 17px; */
+    transform: scale(1.05);
+    text-shadow: 0px 0px 1px black;
+}
+
+
 ul {
-    display: flex;
+    display: flex;  
+    justify-content: flex-end;
     list-style: none;
     gap: 20px;
+    width: 100%;
 }
+
 </style>
 
 <script>

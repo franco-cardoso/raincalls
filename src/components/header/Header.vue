@@ -7,8 +7,8 @@ import Navbar from "./Navbar.vue";
         <div>
             <h1>LOGO</h1>
         </div>
-        <Navbar></Navbar>
         <div></div>
+        <Navbar></Navbar>
     </div>
 </template>
 
@@ -16,11 +16,12 @@ import Navbar from "./Navbar.vue";
 .header-container {
     display: grid;
     /* height: 5rem; */
-    grid-template-columns: 0.5fr 1fr 0.5fr;
+    grid-template-columns: 0.5fr 0.5fr 1fr;
+    margin: 25px;
 }
 
 h1 {
-    margin: 25px;
+    /* margin: 25px; */
 }
 
 nav {
