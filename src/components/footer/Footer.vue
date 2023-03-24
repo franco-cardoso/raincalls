@@ -27,7 +27,6 @@
                 <li><a href="#">Privacy Policy</a></li>
                 <li><a href="#">California Privacy Policy</a></li>
                 <li><a href="#">Terms and Conditions</a></li>
-                <li><a href="#">Code of Conduct</a></li>
                 <li><a href="#">Opt-Out / Unsubscribe</a></li>
             </ul>
         </div>

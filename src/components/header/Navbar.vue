@@ -20,6 +20,7 @@ button {
     font-size: 16px;
     transition: 1s;
     padding: 5px;
+    align-items: center;
 }
 
 button:hover {
@@ -36,6 +37,12 @@ ul {
     width: 100%;
     text-align: center;
 }
+
+li {
+    display: flex;
+    align-items: center;
+}
+
 </style>
 
 <script>

@@ -1,6 +1,6 @@
 <template>
     <section>
-        <h1>SERVICES AND BENEFITS</h1>
+        <h1>OUR SPECIALTIES</h1>
         <div class="services-grid" >
             <div v-for="item in items">
                 <Item :title="item.title" :text="item.text"></Item>

@@ -1,7 +1,7 @@
 <script setup>
 import Navbar from "./Navbar.vue";
 // import Logo from "./Logo.vue";
-import Logo from './logo-no-background.svg'
+import Logo from "./logo-no-background.svg";
 </script>
 
 <template>
@@ -9,7 +9,7 @@ import Logo from './logo-no-background.svg'
         <div class="logo-wrapper">
             <!-- <Logo></Logo> -->
             <!-- <Logo class="logo"></Logo> -->
-            <img class="logo" :src="Logo" alt="">
+            <img class="logo" :src="Logo" alt="" />
         </div>
         <div></div>
         <Navbar></Navbar>
@@ -30,7 +30,6 @@ import Logo from './logo-no-background.svg'
     background-color: v-bind("scrollPos <= headerSizeChange ? '' : 'white' ");
     box-shadow: v-bind("scrollPos <= headerSizeChange ? '' : '0px -35px 50px 10px black'");
 }
-
 
 /* h1 {
     margin: 25px;
@@ -60,6 +59,13 @@ nav {
 .header-container div:nth-child(1) {
     margin-left: 30px;
 }
+
+@media (max-width: 1600px) {
+    .logo-wrapper {
+        height: v-bind("scrollPos <= headerSizeChange ? '100%' : '80px' ");
+        width: v-bind("scrollPos <= headerSizeChange ? '700px' : '250px' ");
+    }
+}
 </style>
 
 <script>
@@ -69,8 +75,8 @@ export default {
         scrollPos: Number,
     },
     components: {
-        Logo
-    }
+        Logo,
+    },
 };
 
 const headerSizeChange = 200;
