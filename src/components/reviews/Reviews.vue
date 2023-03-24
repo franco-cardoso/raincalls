@@ -40,6 +40,6 @@ h1 {
 </style>
 
 <script>
-const getRandomRating = () => (Math.random() * 5).toFixed(1)
+const getRandomRating = () => (2 + Math.random() * 3).toFixed(1)
 
 </script>
