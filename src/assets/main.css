@@ -1,3 +1,7 @@
+:root {
+    --dark-text: rgba(0, 0, 0, 0.74);;
+  }
+
 *,
 *::before,
 *::after {

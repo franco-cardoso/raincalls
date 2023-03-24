@@ -12,7 +12,7 @@
 <style scoped>
 h1 {
     font-weight: 600;
-    color: rgba(0, 0, 0, 0.644);
+    color: var(--dark-text);
 }
 
 .services-container {

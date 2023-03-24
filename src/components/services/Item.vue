@@ -1,13 +1,17 @@
 <template>
     <div class="item-container">
-        <h1>{{ title }}</h1>
+        <h2>{{ title }}</h2>
         <p>{{ text }}</p>
     </div>
 </template>
 
 <style scoped>
-h1 {
+h2 {
     font-weight: 500;
+    font-size: 18px;
+    font-weight: bold;
+    color: var(--dark-text);
+    
 }
 .item-container {
     display: flex;

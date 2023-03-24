@@ -18,7 +18,7 @@ nav {
 button {
     all: unset;
     cursor: pointer;
-    font-size: 14px;
+    font-size: 16px;
 }
 
 ul {
