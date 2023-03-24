@@ -57,6 +57,7 @@ h2 {
 h3 {
     font-weight: bold;
     font-size: 18px;
+    margin: 5px 0;
 }
 
 a {
