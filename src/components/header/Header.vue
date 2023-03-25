@@ -5,8 +5,8 @@ import { useRoute } from "vue-router";
 </script>
 
 <template>
-    <div :class="route.path === '/' ? 'header-container' : 'header-container-fixed'">
-        <div :class="route.path === '/' ? 'logo-wrapper' : 'logo-wrapper-fixed'">
+    <div class="header-container" :class="route.path === '/' ? 'hc-dyn' : 'hc-fixed'">
+        <div class="logo-wrapper" :class="route.path === '/' ? 'lw-dyn' : 'lw-fixed'">
             <img class="logo" :src="Logo" alt="" />
         </div>
         <div></div>
@@ -20,10 +20,13 @@ import { useRoute } from "vue-router";
     /* height: 5rem; */
     position: fixed;
     align-items: center;
-    top: v-bind("scrollPos <= headerSizeChange ? '-20vh' : '0px' ");
     width: 100%;
     transition: 800ms;
     grid-template-columns: 0.5fr 0.4fr 1fr;
+}
+
+.hc-dyn {
+    top: v-bind("scrollPos <= headerSizeChange ? '-20vh' : '0px' ");
     height: v-bind("scrollPos <= headerSizeChange ? '100vh' : '80px' ");
     /* top: v-bind("scrollPos <= headerSizeChange ? '0' : '-80px' "); */
     padding: v-bind("scrollPos <= headerSizeChange ? '0 2rem 0 0' : '0px 3rem' ");
@@ -31,15 +34,8 @@ import { useRoute } from "vue-router";
     box-shadow: v-bind("scrollPos <= headerSizeChange ? '' : '0px -35px 50px 10px black'");
 }
 
-.header-container-fixed {
-    display: grid;
-    /* height: 5rem; */
-    position: fixed;
-    align-items: center;
+.hc-fixed {
     top: 0px;
-    width: 100%;
-    transition: 800ms;
-    grid-template-columns: 0.5fr 0.4fr 1fr;
     height: 80px;
     /* top: v-bind("scrollPos <= headerSizeChange ? '0' : '-80px' "); */
     padding: 0px 3rem;
@@ -55,14 +51,14 @@ import { useRoute } from "vue-router";
     transition: 800ms;
     padding: 10px 0;
     overflow: hidden;
+}
+
+.lw-dyn {
     height: v-bind("scrollPos <= headerSizeChange ? '1000px' : '80px' ");
     width: v-bind("scrollPos <= headerSizeChange ? '1000px' : '250px' ");
 }
 
-.logo-wrapper-fixed {
-    transition: 800ms;
-    overflow: hidden;
-    padding: 10px 0;
+.lw-fixed {
     height: 80px;
     width: 250px;
 }
@@ -86,11 +82,11 @@ nav {
 }
 
 @media (max-width: 1700px) {
-    .logo-wrapper {
+    .lw-dyn {
         height: v-bind("scrollPos <= headerSizeChange ? '180%' : '80px' ");
         width: v-bind("scrollPos <= headerSizeChange ? '180%' : '250px' ");
     }
-    .logo-wrapper-fixed {
+    .lw-fixed {
         height: 80px;
         width: 250px;
     }
@@ -100,7 +96,7 @@ nav {
     .header-container {
         display: grid;
         grid-template-columns: 100%;
-        grid-template-rows: 1fr 0fr 1fr;
+        grid-template-rows: 2fr 0fr 1fr;
         padding: 0;
         align-items: end;
         gap: 2rem;
@@ -110,16 +106,16 @@ nav {
         padding: 0 10px;
         width: 100%;
         margin: 0;
+    }
+
+    .lw-dyn {
         height: v-bind("scrollPos <= headerSizeChange ? '230px' : '80px' ");
         width: v-bind("scrollPos <= headerSizeChange ? '100%' : '170px' ");
     }
-    .logo-wrapper-fixed {
+
+    .lw-fixed {
         height: 230px;
-        padding: 0 10px;
         width: 100%;
-        margin: 0;
-        height: 80px;
-        width: 170px;
     }
 
     .header-container div:nth-child(1) {
@@ -134,6 +130,11 @@ nav {
 @media (max-width: 720px) {
     .header-container nav {
         display: none;
+    }
+    .header-container {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
     }
 }
 </style>
@@ -154,7 +155,7 @@ export default {
     //         path: this.$route.path,
     //     };
     // },
-    computed: { route: () => useRoute() }
+    computed: { route: () => useRoute() },
 };
 
 const headerSizeChange = 150;
