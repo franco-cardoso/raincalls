@@ -149,12 +149,6 @@ export default {
         Logo,
         Navbar,
     },
-
-    // data() {
-    //     return {
-    //         path: this.$route.path,
-    //     };
-    // },
     computed: { route: () => useRoute() },
 };
 
