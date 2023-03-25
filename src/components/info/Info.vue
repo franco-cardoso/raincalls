@@ -1,5 +1,6 @@
 <template>
     <section id="info">
+        <div class="diag"></div>
         <div class="bgdiv"></div>
         <div class="content-wrapper">
             <h1>Why work with Raincalls?</h1>
@@ -17,10 +18,31 @@
                 </div>
             </div>
         </div>
+        <div class="diag1"></div>
     </section>
 </template>
 
 <style scoped>
+.diag {
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    width: 110%;
+    z-index: 10;
+    position: absolute;
+    top: -80px;
+    transform: rotate(2deg);
+}
+
+.diag1 {
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    width: 110%;
+    z-index: 10;
+    position: absolute;
+    bottom: -80px;
+    transform: rotate(2deg);
+}
+
 section {
     /* margin: 5rem 0; */
     padding: 8rem 0;

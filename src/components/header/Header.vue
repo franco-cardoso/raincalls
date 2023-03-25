@@ -9,7 +9,9 @@ import { useRoute } from "vue-router";
         <div class="logo-wrapper" :class="route.path === '/' ? 'lw-dyn' : 'lw-fixed'">
             <img class="logo" :src="Logo" alt="" />
         </div>
-        <div></div>
+        <div>
+            
+        </div>
         <Navbar :scrollPos="scrollPos"></Navbar>
     </div>
 </template>
@@ -50,6 +52,7 @@ import { useRoute } from "vue-router";
 .logo-wrapper {
     transition: 800ms;
     padding: 10px 0;
+    margin: 0;
     overflow: hidden;
 }
 
@@ -76,9 +79,6 @@ nav {
 .header-container nav {
     display: flex;
     align-items: center;
-}
-.header-container div:nth-child(1) {
-    margin-left: 30px;
 }
 
 @media (max-width: 1700px) {
