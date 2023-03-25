@@ -71,7 +71,7 @@
         }
 
         section {
-            margin: 1rem;
+            margin: 8rem 1rem;
         }
     }
 </style>
