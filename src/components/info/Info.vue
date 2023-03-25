@@ -18,7 +18,7 @@
                 </div>
             </div>
         </div>
-        <div class="diag1"></div>
+        <div class="diag"></div>
     </section>
 </template>
 
@@ -29,18 +29,15 @@
     width: 110%;
     z-index: 10;
     position: absolute;
-    top: -80px;
     transform: rotate(2deg);
 }
 
-.diag1 {
-    background-color: rgb(255, 255, 255);
-    height: 100px;
-    width: 110%;
-    z-index: 10;
-    position: absolute;
+.diag:nth-child(1) {
+    top: -80px;
+}
+
+.diag:nth-child(4) {
     bottom: -80px;
-    transform: rotate(2deg);
 }
 
 section {

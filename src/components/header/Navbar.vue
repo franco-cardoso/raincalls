@@ -1,10 +1,14 @@
+<script setup>
+import { useRoute } from "vue-router";
+</script>
+
 <template>
     <nav>
         <ul>
-            <li><a href="#home">HOME</a></li>
-            <li><a href="#specialties">OUR SPECIALTIES</a></li>
-            <li><a href="#info">WHY US</a></li>
-            <li><a href="#contact">CONTACT US</a></li>
+            <li><a :class="route.path === '/' ? 'a-dyn' : 'a-fixed'" href="#home">HOME</a></li>
+            <li><a :class="route.path === '/' ? 'a-dyn' : 'a-fixed'" href="#specialties">OUR SPECIALTIES</a></li>
+            <li><a :class="route.path === '/' ? 'a-dyn' : 'a-fixed'" href="#info">WHY US</a></li>
+            <li><a :class="route.path === '/' ? 'a-dyn' : 'a-fixed'" href="#contact">CONTACT US</a></li>
         </ul>
     </nav>
 </template>
@@ -18,16 +22,28 @@ a {
     all: unset;
     cursor: pointer;
     font-size: 18px;
-    text-shadow: v-bind("scrollPos <= 200 ? '0px 0px 3px black' : '0px 0px 0px black'");
     transition: 1s;
     padding: 5px;
     align-items: center;
-    color: v-bind("scrollPos <= 200 ? '#fff' : '#000'");
 }
 
-a:hover {
+.a-dyn {
+    text-shadow: v-bind("scrollPos <= 200 ? '0px 0px 3px black' : '0px 0px 0px black'");
+    color: v-bind("scrollPos <= 200 ? '#fff' : '#000'");
+}
+.a-dyn:hover {
     /* font-size: 17px; */
     text-shadow: v-bind("scrollPos <= 200 ? '0px 0px 3px white' : '0px 0px 1px black'");
+    transform: scale(1.05);
+}
+
+.a-fixed {
+    text-shadow: 0px 0px 0px black;
+    color: #000;
+}
+
+.a-fixed:hover {
+    text-shadow: 0px 0px 1px black;
     transform: scale(1.05);
 }
 
@@ -46,12 +62,11 @@ li {
     overflow: hidden;
 }
 
-@media (max-width: 920px) { 
+@media (max-width: 920px) {
     ul {
         justify-content: center;
     }
 }
-
 </style>
 
 <script>
@@ -59,7 +74,7 @@ export default {
     name: "Navbar",
     props: {
         scrollPos: Number,
-    }
-    
+    },
+    computed: { route: () => useRoute() },
 };
 </script>
