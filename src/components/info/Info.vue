@@ -33,11 +33,11 @@
 }
 
 .diag:nth-child(1) {
-    top: -80px;
+    top: -100px;
 }
 
 .diag:nth-child(4) {
-    bottom: -80px;
+    bottom: -100px;
 }
 
 section {

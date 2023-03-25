@@ -7,8 +7,8 @@ import Banner from "../components/banner/Banner.vue";
         <!-- <Banner></Banner> -->
         <p>RAINCALLS, INC. WEBSITE PRIVACY POLICY</p>
         <p>
-            Thank you for visiting the CallCore Media, Inc. (the “Company,” “we,” “our” or “us”) website located at
-            callcoremedia.com (the “Site” which is owned and operated by CallCore Media, Inc. (“Company,” “we,” “our” or
+            Thank you for visiting the Raincalls, Inc. (the “Company,” “we,” “our” or “us”) website located at
+            raincalls.com (the “Site” which is owned and operated by Raincalls, Inc. (“Company,” “we,” “our” or
             “us”). The Site was created to provide information about our Company and services. We value the privacy of
             our visitors (“you,” “your,” or “user”). To protect your personal information, we have implemented the
             following Privacy Policy with provisions that apply to the collection of data by the Company, its
@@ -21,7 +21,7 @@ import Banner from "../components/banner/Banner.vue";
             explain how any requests for personal or personally identifiable information will be used. If you follow any
             links that direct you away from the Website, this Privacy Policy will not apply to your activity on the
             other websites you visit. We do not control the privacy policies or the privacy practices of any third
-            parties. Capitalized terms not defined herein shall have the meanings set forth in the CallCore Media Terms
+            parties. Capitalized terms not defined herein shall have the meanings set forth in the Raincalls Terms
             and Conditions (“Terms and Conditions”). IF YOU DO NOT AGREE TO TERMS OF THIS PRIVACY POLICY IN THEIR
             ENTIRETY, YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE OFFERINGS.
         </p>
@@ -52,7 +52,7 @@ import Banner from "../components/banner/Banner.vue";
             Services, Company Platform, Contact Services and Career Opportunity Services, the “Company Offerings”).
         </p>
         <p>
-            Capitalized terms not defined herein shall have the meanings set forth in the Callcore Media Terms and
+            Capitalized terms not defined herein shall have the meanings set forth in the Raincalls Terms and
             Conditions (“Terms”). IF YOU DO NOT AGREE TO TERMS OF THIS PRIVACY POLICY IN THEIR ENTIRETY, YOU MAY NOT
             ACCESS OR OTHERWISE USE THE COMPANY OFFERINGS.
         </p>
@@ -62,6 +62,13 @@ import Banner from "../components/banner/Banner.vue";
             be advised that Company is not in any way affiliated with Facebook, LinkedIn or Twitter, and the Company
             Offerings are not endorsed, administered or sponsored by Facebook, LinkedIn or Twitter.
         </p>
+        <br>
+        <br>
+        <h4>Your California Privacy Rights</h4>
+        <p>The following does not apply to individuals who are not residents of the State of California, individuals applying for employment with Company and/or Company’s third-party business partners</p>
+        <p>Opt-Out from the Sale of Your Personal Information</p>
+        <p>Company acts as a data broker, as that term is defined in California Civil Code section 1798.99.80 et seq., with respect to consumer information.  As such, if you are a California resident consumer, you have the right to opt-out of our sale of your personal information to third parties.  To exercise the right to opt-out of our sale of your personal information to third parties, please submit a verifiable request to us by either:</p>
+
     </section>
 </template>
 
