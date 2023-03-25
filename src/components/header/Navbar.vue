@@ -28,12 +28,12 @@ a {
 }
 
 .a-dyn {
-    text-shadow: v-bind("scrollPos <= 200 ? '0px 0px 3px black' : '0px 0px 0px black'");
-    color: v-bind("scrollPos <= 200 ? '#fff' : '#000'");
+    text-shadow: v-bind("scrollPos <= 150 ? '0px 0px 3px black' : '0px 0px 0px black'");
+    color: v-bind("scrollPos <= 150 ? '#fff' : '#000'");
 }
 .a-dyn:hover {
     /* font-size: 17px; */
-    text-shadow: v-bind("scrollPos <= 200 ? '0px 0px 3px white' : '0px 0px 1px black'");
+    text-shadow: v-bind("scrollPos <= 150 ? '0px 0px 3px white' : '0px 0px 1px black'");
     transform: scale(1.05);
 }
 
