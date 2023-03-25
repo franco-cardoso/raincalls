@@ -26,7 +26,7 @@ section {
     align-items: center;
     flex-direction: column;
     /* box-shadow: 0px 10px 50px 15px black; */
-    z-index: 1;
+    z-index: 3;
     position: relative;
     top: -100px;
     background-color: white;

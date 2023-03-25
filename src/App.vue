@@ -4,6 +4,7 @@ import Header from "./components/header/Header.vue";
 import Services from "./components/services/Services.vue";
 import Info from "./components/info/Info.vue";
 import Contact from "./components/contact/Contact.vue";
+import { RouterView } from "vue-router";
 import Footer from "./components/footer/Footer.vue";
 </script>
 
@@ -13,10 +14,7 @@ import Footer from "./components/footer/Footer.vue";
     </header>
 
     <main>
-        <Banner></Banner>
-        <Services></Services>
-        <Info></Info>
-        <Contact></Contact>
+        <RouterView />
     </main>
 
     <footer>

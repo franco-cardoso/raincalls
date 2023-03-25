@@ -1,12 +1,12 @@
 <script setup>
 import Navbar from "./Navbar.vue";
-// import Logo from "./Logo.vue";
 import Logo from "../../assets/logo-no-background.svg";
+import { useRoute } from "vue-router";
 </script>
 
 <template>
-    <div class="header-container">
-        <div class="logo-wrapper">
+    <div :class="route.path === '/' ? 'header-container' : 'header-container-fixed'">
+        <div :class="route.path === '/' ? 'logo-wrapper' : 'logo-wrapper-fixed'">
             <img class="logo" :src="Logo" alt="" />
         </div>
         <div></div>
@@ -31,6 +31,22 @@ import Logo from "../../assets/logo-no-background.svg";
     box-shadow: v-bind("scrollPos <= headerSizeChange ? '' : '0px -35px 50px 10px black'");
 }
 
+.header-container-fixed {
+    display: grid;
+    /* height: 5rem; */
+    position: fixed;
+    align-items: center;
+    top: 0px;
+    width: 100%;
+    transition: 800ms;
+    grid-template-columns: 0.5fr 0.4fr 1fr;
+    height: 80px;
+    /* top: v-bind("scrollPos <= headerSizeChange ? '0' : '-80px' "); */
+    padding: 0px 3rem;
+    background-color: white;
+    box-shadow: 0px -35px 50px 10px black;
+}
+
 /* h1 {
     margin: 25px;
 } */
@@ -38,8 +54,17 @@ import Logo from "../../assets/logo-no-background.svg";
 .logo-wrapper {
     transition: 800ms;
     padding: 10px 0;
+    overflow: hidden;
     height: v-bind("scrollPos <= headerSizeChange ? '1000px' : '80px' ");
     width: v-bind("scrollPos <= headerSizeChange ? '1000px' : '250px' ");
+}
+
+.logo-wrapper-fixed {
+    transition: 800ms;
+    overflow: hidden;
+    padding: 10px 0;
+    height: 80px;
+    width: 250px;
 }
 
 .logo {
@@ -65,6 +90,10 @@ nav {
         height: v-bind("scrollPos <= headerSizeChange ? '180%' : '80px' ");
         width: v-bind("scrollPos <= headerSizeChange ? '180%' : '250px' ");
     }
+    .logo-wrapper-fixed {
+        height: 80px;
+        width: 250px;
+    }
 }
 
 @media (max-width: 920px) {
@@ -83,6 +112,14 @@ nav {
         margin: 0;
         height: v-bind("scrollPos <= headerSizeChange ? '230px' : '80px' ");
         width: v-bind("scrollPos <= headerSizeChange ? '100%' : '170px' ");
+    }
+    .logo-wrapper-fixed {
+        height: 230px;
+        padding: 0 10px;
+        width: 100%;
+        margin: 0;
+        height: 80px;
+        width: 170px;
     }
 
     .header-container div:nth-child(1) {
@@ -109,7 +146,15 @@ export default {
     },
     components: {
         Logo,
+        Navbar,
     },
+
+    // data() {
+    //     return {
+    //         path: this.$route.path,
+    //     };
+    // },
+    computed: { route: () => useRoute() }
 };
 
 const headerSizeChange = 150;

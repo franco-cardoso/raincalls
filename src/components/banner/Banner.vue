@@ -16,7 +16,7 @@ section {
     background-color: #ffffff;
     display: flex;
     align-items: flex-start;
-    z-index: -1;
+    z-index: -3;
     overflow-y: hidden;
 }
 
