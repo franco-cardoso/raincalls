@@ -24,7 +24,7 @@ import { useRoute } from "vue-router";
     align-items: center;
     width: 100%;
     transition: 800ms;
-    grid-template-columns: 0.5fr 0.4fr 1fr;
+    grid-template-columns: 0.5fr 0.3fr 1fr;
 }
 
 .hc-dyn {
@@ -101,6 +101,7 @@ nav {
         align-items: end;
         gap: 2rem;
     }
+
     .logo-wrapper {
         height: 230px;
         padding: 0 10px;
@@ -121,12 +122,12 @@ nav {
     nav {
         align-self: flex-start;
     }
-}
-
-@media (max-width: 720px) {
     .header-container nav {
         display: none;
     }
+}
+
+@media (max-width: 720px) {
     .header-container {
         display: flex;
         align-items: center;

@@ -2,14 +2,16 @@
 import Header from "./components/header/Header.vue";
 import { RouterView } from "vue-router";
 import Footer from "./components/footer/Footer.vue";
+import Menu from "./components/menu/Menu.vue";
 </script>
 
 <template>
     <header>
         <Header :scrollPos="windowTop"></Header>
     </header>
-
+    
     <main>
+        <Menu></Menu>
         <RouterView />
     </main>
 
@@ -21,14 +23,13 @@ import Footer from "./components/footer/Footer.vue";
 <style scoped>
 header * {
     /* position: fixed; */
-    z-index: 1;
     /* background-color: white; */
     /* width: 100%; */
     display: flex;
     justify-content: center;
     overflow-y: hidden;
     box-shadow: 0px -18px 30px 1px black;
-    z-index: 99999;
+    z-index: 10;
 }
 
 footer {
@@ -55,5 +56,6 @@ export default {
             this.windowTop = e.target.documentElement.scrollTop;
         },
     },
+    components: { Menu }
 };
 </script>
