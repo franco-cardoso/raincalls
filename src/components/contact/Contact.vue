@@ -1,7 +1,7 @@
 <template>
     <section id="contact">
-        <h1>Let's Chat</h1>
-        <h2>We'd love to hear from you.</h2>
+        <h1>Want to work with us?</h1>
+        <h2>Let's Chat - We'd love to hear from you.</h2>
         <div class="buttons">
             <button>Publishers Click Here</button>
             <button>Advertisers Click Here</button>
