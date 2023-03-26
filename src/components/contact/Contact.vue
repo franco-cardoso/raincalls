@@ -94,8 +94,5 @@ h2 {
         font-size: 15px;
     }
 
-    section {
-        margin: 8rem 1rem;
-    }
 }
 </style>
