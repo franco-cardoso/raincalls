@@ -13,6 +13,7 @@ h2 {
     color: var(--dark-text);
     overflow: hidden;
     margin: 10px 0;
+    text-align: center;
 }
 
 p {
@@ -31,7 +32,6 @@ p {
     box-shadow: 4px 4px 10px -5px black;
     border-width: 0.1px;
     border-radius: 15px;
-    text-align: center;
     margin: 2rem;
 }
 

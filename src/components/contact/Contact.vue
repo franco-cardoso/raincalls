@@ -34,6 +34,7 @@ export default {
 <style scoped>
 section {
     margin: 0 0 8rem 0;
+    padding: 3rem 0 0;
     text-align: center;
     z-index: 3;
     background-color: rgb(255, 255, 255);

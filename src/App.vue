@@ -1,9 +1,5 @@
 <script setup>
-import Banner from "./components/banner/Banner.vue";
 import Header from "./components/header/Header.vue";
-import Services from "./components/services/Services.vue";
-import Info from "./components/info/Info.vue";
-import Contact from "./components/contact/Contact.vue";
 import { RouterView } from "vue-router";
 import Footer from "./components/footer/Footer.vue";
 </script>
