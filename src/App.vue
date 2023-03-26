@@ -57,7 +57,6 @@ export default {
     methods: {
         onScroll(e) {
             this.windowTop = e.target.documentElement.scrollTop;
-            console.log({ top: this.windowTop });
         },
     },
 };

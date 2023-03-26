@@ -79,22 +79,343 @@ import Banner from "../components/banner/Banner.vue";
 
         <ul>
             <li>Clicking here;</li>
-            <li>Calling us at: 386-256-3836;</li>
-            <li>Emailing us at: consumerinquiries@callcoremedia.com; or</li>
-            <li>Sending us U.S. mail to: Callcore Media, 1540 Cornerstone Blvd, Suite 120, Daytona Beach, FL 32117.</li>
+            <li>Calling us at: 321-948-5497;</li>
+            <li>Emailing us at: p32nicky@gmail.com; or</li>
         </ul>
+        <p>
+            We endeavor to act on all opt-out requests as soon as practicable, but in all cases within fifteen (15)
+            business days of the receipt of your request.
+        </p>
+
+        <p>
+            Shine the Light. If you are a resident of the State of California and would like to learn how your personal
+            information is shared with third parties, what categories of personal information that we have shared with
+            third parties in the preceding year, as well as the names and addresses of those third parties, please call
+            us at: 321-948-5497; e-mail us at: p32nicky@gmail.com.
+        </p>
+
+        <h3>Your Nevada Privacy Rights</h3>
+        <p>
+            If you are a resident of the State of Nevada and would like to opt-out from the sale of your personal
+            information to any third party data broker, please call us at: 321-948-5497; e-mail us at:
+            consumerinquiries@callcoremedia.com
+        </p>
+        <br />
+
+        <p>NO ANONYMOUS POSTING</p>
+
+        <p>
+            The Site hosts require that users post information under their actual given name. We ask that our
+            participating users identify themselves in this manner, and if you object, we request that you refrain from
+            using the Site. We urge you to review your information regularly to ensure that it is correct and complete.
+            If you believe that any of your information is incorrect, or if you have any questions regarding this
+            Privacy Policy, please contact us using any of the methods set forth in the “Contact Us” section below.
+        </p>
+        <br />
+
+        <p>PERSONAL INFORMATION COLLECTED</p>
+
+        <p>
+            For the purposes of this Privacy Policy, “personal information” shall mean individually identifiable
+            information from or about an individual that may be associated with or used to identify an individual. We
+            collect personal information when you access certain of the Site Offerings and complete the required
+            information request form and/or otherwise provide such information to us. The type of information we collect
+            may include, but is not limited to: (a) the User’s e-mail address; (b) the User’s full name; (c) the User’s
+            telephone number; (d) personal data required to verify your identity; (e) aggregated personal data related
+            to your visits to the Site; and (f) any other information collected via the Contact Services form.
+        </p>
+        <br />
+
+        <p>USE OF INFORMATION COLLECTED</p>
+        <p>
+            By submitting your personal information by and through the Site Offerings, you agree that we may share,
+            sell, rent, lease or otherwise provide that personal information to any third party for any purpose
+            permitted by law, and we may work with other businesses to bring selected retail opportunities to our Users.
+            These businesses and third parties may include, but are not limited to: (a) providers of direct marketing
+            services and applications, including lookup and reference, data enhancement, suppression and validation; (b)
+            e-mail marketers; (c) telemarketers (where permitted by applicable law); and (d) direct marketers. We will
+            also use your personal information to send you promotional messages regarding various Company products
+            and/or services, as well as third party products and/or services that we think may be of interest to you.
+        </p>
+        <br />
+        <p>
+            We use the personal information collected to personalize your experience with the Site and to facilitate the
+            delivery of the Site Offerings to you. We will also use your personal information for customer service, to
+            provide you with information that you may request, respond to you, customize your experience with our
+            services and/or contact you when necessary related to your use of services or the Site.
+        </p>
+        <br />
+        <p>
+            You agree that we may contact you at any time with updates and/or any other information that we may deem
+            appropriate for you to receive in connection with your continued use of the Site Offerings, and to keep you
+            informed of our other products and services.
+        </p>
+        <p>
+            We may also employ third parties to perform certain functions on our behalf. Examples include sending direct
+            and electronic mail, removing duplicate information from User lists, analyzing and collecting data,
+            providing marketing analysis, data processing, data storage, payment services, technology support and
+            services, customer service, risk solution provision, fraud prevention, and reporting. The agents performing
+            these limited functions on our behalf shall have access to our Users’ personal information as needed to
+            perform these functions for us, but we do not permit them to use User personal information for other
+            purposes. These third party partners are legally required to keep your information private and secure. We
+            may also share some of your personal information as otherwise permitted or required by law or as authorized
+            by you.
+        </p>
+        <br />
+        <p>
+            We may also use your personal information for internal business purposes, such as analyzing and managing our
+            service offerings. We may also combine the information we have gathered about you with information from
+            other sources.
+        </p>
+        <br />
+        <p>
+            By submitting your personal information through the Site, you agree that such act constitutes an inquiry
+            and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR §310 et seq.), as amended
+            from time to time (the “Rule”) and applicable state do-not-call regulations. As such, even if your telephone
+            number may be listed on the Federal Trade Commission’s Do-Not-Call List, and/or on applicable state
+            do-not-call lists, we retain the right to contact you via telemarketing in accordance
+        </p>
+        <br />
+        <p>
+            Where you provide “prior express written consent” within the meaning of the Telephone Consumer Protection
+            Act (47 USC § 227), and its implementing regulations adopted by the Federal Communications Commission (47
+            CFR § 64.1200), as amended from time-to-time (“TCPA”), you consent to receive telephone calls, including
+            artificial voice calls, pre-recorded messages and/or calls (including SMS text messages) delivered via
+            automated technology, to the telephone number(s) that you provided. Please note that you are not required to
+            provide this consent to obtain access to the Site or our services, and your consent simply allows us to
+            contact you via these means. Please be advised that by agreeing to this Privacy Policy, you are obligated to
+            inform us immediately if and when the telephone number that you have previously provided to us changes.
+            Without limiting the foregoing, if you: (i) have your telephone number reassigned to another person or
+            entity; (ii) give up your telephone number so that it is no longer used by you; (iii) port your telephone
+            number to a landline or vice versa; or (iv) otherwise stop using that telephone number for any reason
+            (collectively “Phone Number Change”), you agree that you shall promptly notify Company of the Phone Number
+            Change through one of the contact methods set forth in the “Contact Us” section below.
+        </p>
+        <br />
+        <p>
+            We reserve the right to release current or past personal and non-personal information (defined below): (A)
+            if we believe that the Site Offerings are being or have been used in violation of the Terms and Conditions
+            or to commit unlawful acts or fraud; (B) if the information is subpoenaed; provided, however, that, where
+            permitted by applicable law, we shall provide you with e-mail notice, and opportunity to challenge the
+            subpoena, prior to disclosure of any personal information pursuant to a subpoena; or (C) if we are sold,
+            merge with a third party, are acquired or are the subject of bankruptcy proceedings; provided, however, that
+            if Company is involved in a bankruptcy proceeding, merger, acquisition or sale of all or a portion of its
+            assets, you will be notified via email and/or a prominent notice on the Site of any change in ownership or
+            uses of your personal information, as well as any choices that you may have regarding your personal
+            information; (D) when we believe that disclosure is necessary to protect our rights or as appropriate or
+            necessary to take precautions against liability; (E) to investigate and defend against any third party
+            claims or allegations; (F) to assist government enforcement agencies; (G) to protect the security or
+            integrity of the Website or our services; and (H) to protect the rights, property or personal safety of the
+            Company, its users, agents, or others. The examples contained within this Privacy Policy are illustrations
+            and are not intended to be exclusive.
+        </p>
+        <br />
+        <p>
+            You hereby consent to the disclosure of any record or communication to any third-party when we, in our sole
+            discretion, determine the disclosure to be appropriate including, without limitation, sharing your e-mail
+            address with third-parties for suppression purposes in compliance with applicable law, including the
+            CAN-SPAM Act of 2003, as amended from time to time. Users should also be aware that courts of equity, such
+            as U.S. Bankruptcy Courts, might have the authority under certain circumstances to permit personal
+            information to be shared or transferred to third parties without permission.
+        </p>
+        <br />
+        <br />
+
+        <p>NON-PERSONAL INFORMATION COLLECTED</p>
+        <p>
+            In addition, we may collect information such as your Internet Protocol (IP) address and/or domain, the type
+            and version of your Internet browser software and operating system you use, the date, time, and duration of
+            your online access, the specific pages, buttons, images, links, and forms that you access while visiting the
+            Website, the type of device you use to access the Website (such as a personal computer, iPhone, or iPad),
+            your mobile carrier and/or your Internet Service Provider (ISP). Collection of this data alone does not
+            personally identify you. We use the non-personal information that we collect to improve the design and
+            content of the Site Offerings and to enable us to personalize your Internet experience. We also may use this
+            information in the aggregate to analyze usage of the Site Offerings.
+        </p>
+        <br />
+        <br />
+
+        <p>COOKIES</p>
+        <p>
+            When a User visits the Site, we send one (1) or more cookies and/or gif files (collectively, “Cookies”) to
+            assign an anonymous, unique identifier to your computer. A Cookie is a piece of data stored on your hard
+            drive or browser containing non-personally identifiable information about you. To find out more about
+            Cookies, please visit cookiecentral.com. We use Cookies to enhance your experience at the Site and to
+            improve the quality of the Site Offerings, including for storing User preferences and tracking Site-User
+            trends (such as pages opened and length of stay at the Site). For security purposes, all of this information
+            is stored in encrypted form. No personal information about you is stored. We reserve the right to retain
+            Cookie data indefinitely.
+        </p>
+        <br />
+        <p>
+            You can set your web browser to inform you when cookies are sent, or to prevent cookies from being sent
+            altogether. Please note that if you decline to use cookies, you may experience reduced functionality and
+            slower Site response times. In some instances, declining to use our authentication-related cookies may
+            prevent you from using some or all of the Site functions and services.
+        </p>
+        <br />
+        <p>
+            Company reserves the right to transfer and/or sell aggregate or group data about Users of the Site Offerings
+            for lawful purposes. Aggregate or group data is data that describes the demographics, usage and other
+            characteristics of Site Offerings Users as a group, without disclosing personally identifiable information.
+        </p>
+        <br />
+
+        <p>THIRD-PARTY WEBSITES</p>
+        <p>
+            This Site may contain links to third-party owned and/or operated websites. The Company is not responsible
+            for the privacy practices or the content of such websites. In some cases, you may be able to make a purchase
+            through one of these third-party websites. In these instances, you may be required to provide certain
+            information, such as a credit card number, to register or complete a transaction at such website. These
+            third-party websites have separate privacy and data collection practices and Company has no responsibility
+            or liability relating to them.
+        </p>
+
+        <br />
+
+        <p>SECURITY</p>
+        <p>
+            The security of your information is very important to us, and we take commercially reasonable steps to
+            safeguard such information. When Users make personal information available to us, their personal information
+            is protected both online and offline (to the extent that we maintain any personal information offline).
+            Practices include encryption and authentication tools to maintain the confidentiality of user information
+            including secure socket layer (SSL) technology; limits on, to the extent possible, who or what can access
+            your user information; and the use of cookies to help anonymously recognize you as a repeat visitor and to
+            track Site traffic patterns.
+        </p>
+        <br />
+        <p>
+            Further, access to your personal information is strictly limited, and we take reasonable measures to ensure
+            that your personal information is not accessible to the public. All of your personal information is
+            restricted in our offices, and the offices of our third party service providers. Only employees or third
+            party agents who have a legitimate business need for User personal information to perform a specific job are
+            granted access to personal information and are required to adhere to our privacy protocols. The servers that
+            we store User personal information on are kept in a secure physical environment. The Website is built upon a
+            secure infrastructure with multiple layers of protection, and we use industry-standard encryption
+            technologies to safeguard your information. We also have security measures in place to protect the loss,
+            misuse and alteration of personal information under our control. You also play a critical role in protecting
+            your information by maintaining up-to-date computer security protections. Steps you take to ensure the
+            security of your computer, computer passwords, or other personal identifier authentication mechanisms are
+            key components of the protection of your personal information.
+        </p>
+        <br />
+        <p>
+            However, while we take every reasonable precaution available to protect your data, no storage facility,
+            technology, software, security protocols or data transmission over the Internet or via wireless networks is
+            fully secured. We cannot guarantee the security of any information transmitted, generated or stored in
+            connection with the Site or the security of your personal information. Any transmission of data at or
+            through the Site, other Site Offerings or otherwise via the Internet or wireless networks, is done at your
+            own risk.
+        </p>
+        <br />
+        <p>
+            In compliance with applicable federal and state laws, we shall notify you and any applicable regulatory
+            agencies in the event that we learn of an information security breach with respect to your personal
+            information. You will be notified via e-mail in the event of such a breach. Please be advised that notice
+            may be delayed in order to address the needs of law enforcement, determine the scope of network damage, and
+            to engage in remedial measures.
+        </p>
+        <br>
+
+        <p>CHILDREN ONLINE PRIVACY PROTECTION ACT AND CAN-SPAM ACT</p>
+        <p>
+            Visitors under eighteen (18) years of age are not permitted to use and/or submit their personal information
+            at the Site. Company does not knowingly solicit or collect information from visitors under eighteen (18)
+            years of age. Company encourages parents and guardians to spend time online with their children and to
+            participate and monitor the interactive activities of their children. The Federal Trade Commission enforces
+            the Children Online Privacy Protection Act (COPPA) which details what operators of websites and online
+            services must do to protect children’s privacy and safety online. For more information on COPPA, please
+            visit the Federal Trade Commission website at www.ftc.gov. We also abide by the CAN-SPAM Act, which sets
+            rules for commercial email, establishes requirements for commercial messages, gives recipients the right to
+            stop receiving emails, and has tough penalties for violations.
+        </p>
+        <br />
+        
+
+        <p>OPT-OUT/UNSUBSCRIBE</p>
+        <p>
+            To opt-out of receiving e-mail and other forms of communications from us, you can: (a) follow the
+            instructions included in the applicable e-mail message or other communication; or (b) e-mail us at:
+            p32nicky@gmail.com.
+        </p>
+        <p>
+            Notwithstanding the foregoing, we may continue to contact you to communicate information relating to your
+            request for Site Offerings, as well as to respond to any inquiry or request made by you. To opt-out of
+            receiving Site Offerings-related and/or inquiry response-related messages from Company, you must cease
+            requesting and/or utilizing the Site Offerings and/or cease submitting inquiries to Company, as applicable.
+        </p>
+        <br>
+
+        <p>DELETING, MODIFYING AND UPDATING YOUR INFORMATION</p>
+        <p>
+            At your request, we will: (a) inform you of what personal information we have on file for you; (b) amend the
+            personal information that we have on file for you; and/or (c) remove personal information that you have
+            provided to us, or that we have collected. You may do so by e-mailing us at:
+            p32nicky@gmail.com . We ask individual Users to identify themselves and the information
+            requested to be accessed, corrected or removed before processing such requests, and, to the extent permitted
+            by applicable law, we may decline to process requests that are unreasonably repetitive or systematic,
+            require disproportionate technical effort, jeopardize the privacy of others or would be extremely
+            impractical (for instance, requests concerning information residing on backup tapes).
+        </p>
+        <br />
+        <p>
+            Please be advised that deleting your personal information may terminate your access to certain of the Site
+            Offerings. If you wish to continue using the full complement of Site Offerings, you may not be able to
+            delete all of the personal information that we have on file for you.
+        </p>
+        <br />
+        <p>
+            Please be further advised that, after you delete your personal information, residual copies may take a
+            period of time before they are deleted from our active servers and may remain in our backup systems.
+        </p>
+        <br />
+
+        <p>TRANSFER OF PERSONAL INFORMATION INTERNATIONALLY</p>
+        <p>
+            Users located outside the United States may access the Site. If you choose to use the Site or access its
+            services from outside of the continental United States with laws governing data collection and use that may
+            differ from U.S. law, then please note that you are transferring your personal information outside of those
+            regions to the United States, and that by providing your personal information on or through the Site, you
+            consent to that transfer. Even if your jurisdiction does not have the same privacy laws as the jurisdiction
+            where our servers are located, we will treat your information as subject to the protections described in
+            this Privacy Policy.
+        </p>
+        <br />
+
+        <p>CLASS ACTIONS</p>
+        <p>
+            BY USING THIS SITE, YOU WAIVE ANY RIGHT YOU MAY HAVE TO JOIN CLAIMS WITH THOSE OF OTHERS IN THE FORM OF A
+            CLASS ACTION OR SIMILAR PROCEDURE AGAINST THE COMPANY OR ITS AFFILIATES AND BUSINESS PARTNERS AND THAT ANY
+            DISPUTE WILL BE RESOLVED ONLY BY INDIVIDUAL ARBITRATION, UNLESS THE DISPUTE IS OTHERWISE ELIGIBLE TO BE
+            BROUGHT IN SMALL CLAIMS COURT.
+        </p>
+        <br>
+
+        <p>CHANGES TO THIS PRIVACY POLICY</p>
+        <p>Company reserves the right to change or update this Privacy Policy at any time by posting a notice on the Site that we are changing our Privacy Policy. If the manner in which we use personal information changes, Company will notify Users by: (a) sending the modified policy to our Users via email; and/or (b) by any other reasonable means acceptable under applicable state and federal law. You will have a choice as to whether or not we use your information in this different manner and we will only use your information in this different manner where you opt-in to such use.</p>
+        <br>
+
+        <p>CONTACT US</p>
+        <p>If you have any questions about this Privacy Policy or our privacy practices in general, you may email us as at: p32nicky@gmail.com ; call us at: 321-948-5497.</p>
+        <br>
+        <p>Last Updated: March 25, 2023</p>
     </section>
 </template>
 
 <style scoped>
+* {
+    font-size: 20px;
+}
+
 section {
     margin: 6rem 10%;
 }
 
-ul, li {
+ul,
+li {
     overflow: visible;
+    font-size: 20px;
 }
-
 
 h3 {
     font-weight: bold;
