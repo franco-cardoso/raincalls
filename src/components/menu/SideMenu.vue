@@ -7,10 +7,10 @@ import { useRoute } from "vue-router";
         <button @click="toggleMenu">X</button>
         <hr>
         <ul>
-            <li><a :class="route.path === '/' ? 'a-dyn' : 'a-fixed'" href="/#home">HOME</a></li>
-            <li><a :class="route.path === '/' ? 'a-dyn' : 'a-fixed'" href="/#specialties">OUR SPECIALTIES</a></li>
-            <li><a :class="route.path === '/' ? 'a-dyn' : 'a-fixed'" href="/#info">WHY US</a></li>
-            <li><a :class="route.path === '/' ? 'a-dyn' : 'a-fixed'" href="/#contact">CONTACT US</a></li>
+            <li><a @click="toggleMenu" :class="route.path === '/' ? 'a-dyn' : 'a-fixed'" href="/#home">HOME</a></li>
+            <li><a @click="toggleMenu" :class="route.path === '/' ? 'a-dyn' : 'a-fixed'" href="/#specialties">OUR SPECIALTIES</a></li>
+            <li><a @click="toggleMenu" :class="route.path === '/' ? 'a-dyn' : 'a-fixed'" href="/#info">WHY US</a></li>
+            <li><a @click="toggleMenu" :class="route.path === '/' ? 'a-dyn' : 'a-fixed'" href="/#contact">CONTACT US</a></li>
         </ul>
     </section>
 </template>
