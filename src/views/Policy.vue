@@ -8,22 +8,22 @@ import Banner from "../components/banner/Banner.vue";
         <p>RAINCALLS, INC. WEBSITE PRIVACY POLICY</p>
         <p>
             Thank you for visiting the Raincalls, Inc. (the “Company,” “we,” “our” or “us”) website located at
-            raincalls.com (the “Site” which is owned and operated by Raincalls, Inc. (“Company,” “we,” “our” or
-            “us”). The Site was created to provide information about our Company and services. We value the privacy of
-            our visitors (“you,” “your,” or “user”). To protect your personal information, we have implemented the
-            following Privacy Policy with provisions that apply to the collection of data by the Company, its
-            subsidiaries, and its affiliates. The Site is property of the Company. This Privacy Policy addresses our
-            treatment of personal information and other information that we collect when you visit or use the site
-            and/or use the various contact forms and/or contact information made available on the Site (collectively,
-            the “Contact Services”). The Contact Services, information and services provided through the Site shall be
-            the “Site Offerings”. Our Privacy Policy discloses the type and nature of information we collect and how we
-            use it, as well as the choices you can make about the way your information is collected and used. We also
-            explain how any requests for personal or personally identifiable information will be used. If you follow any
-            links that direct you away from the Website, this Privacy Policy will not apply to your activity on the
-            other websites you visit. We do not control the privacy policies or the privacy practices of any third
-            parties. Capitalized terms not defined herein shall have the meanings set forth in the Raincalls Terms
-            and Conditions (“Terms and Conditions”). IF YOU DO NOT AGREE TO TERMS OF THIS PRIVACY POLICY IN THEIR
-            ENTIRETY, YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE OFFERINGS.
+            raincalls.com (the “Site” which is owned and operated by Raincalls, Inc. (“Company,” “we,” “our” or “us”).
+            The Site was created to provide information about our Company and services. We value the privacy of our
+            visitors (“you,” “your,” or “user”). To protect your personal information, we have implemented the following
+            Privacy Policy with provisions that apply to the collection of data by the Company, its subsidiaries, and
+            its affiliates. The Site is property of the Company. This Privacy Policy addresses our treatment of personal
+            information and other information that we collect when you visit or use the site and/or use the various
+            contact forms and/or contact information made available on the Site (collectively, the “Contact Services”).
+            The Contact Services, information and services provided through the Site shall be the “Site Offerings”. Our
+            Privacy Policy discloses the type and nature of information we collect and how we use it, as well as the
+            choices you can make about the way your information is collected and used. We also explain how any requests
+            for personal or personally identifiable information will be used. If you follow any links that direct you
+            away from the Website, this Privacy Policy will not apply to your activity on the other websites you visit.
+            We do not control the privacy policies or the privacy practices of any third parties. Capitalized terms not
+            defined herein shall have the meanings set forth in the Raincalls Terms and Conditions (“Terms and
+            Conditions”). IF YOU DO NOT AGREE TO TERMS OF THIS PRIVACY POLICY IN THEIR ENTIRETY, YOU MAY NOT ACCESS OR
+            OTHERWISE USE THE SITE OFFERINGS.
         </p>
         <p style="color: black; font-weight: bold; font-style: italic">
             Please note, if you are a resident of a European Union Member State (“EU Resident”), you are not permitted
@@ -52,29 +52,53 @@ import Banner from "../components/banner/Banner.vue";
             Services, Company Platform, Contact Services and Career Opportunity Services, the “Company Offerings”).
         </p>
         <p>
-            Capitalized terms not defined herein shall have the meanings set forth in the Raincalls Terms and
-            Conditions (“Terms”). IF YOU DO NOT AGREE TO TERMS OF THIS PRIVACY POLICY IN THEIR ENTIRETY, YOU MAY NOT
-            ACCESS OR OTHERWISE USE THE COMPANY OFFERINGS.
+            Capitalized terms not defined herein shall have the meanings set forth in the Raincalls Terms and Conditions
+            (“Terms”). IF YOU DO NOT AGREE TO TERMS OF THIS PRIVACY POLICY IN THEIR ENTIRETY, YOU MAY NOT ACCESS OR
+            OTHERWISE USE THE COMPANY OFFERINGS.
         </p>
-        <p style="font-style: italic;">
+        <p style="font-style: italic">
             Instagram® and Facebook® are registered trademarks of (“Facebook”). LinkedIn® is a registered trademark of
             LinkedIn Corporation (“LinkedIn”). Twitter® is a registered trademark of Twitter, Inc. (“Twitter”). Please
             be advised that Company is not in any way affiliated with Facebook, LinkedIn or Twitter, and the Company
             Offerings are not endorsed, administered or sponsored by Facebook, LinkedIn or Twitter.
         </p>
-        <br>
-        <br>
-        <h4>Your California Privacy Rights</h4>
-        <p>The following does not apply to individuals who are not residents of the State of California, individuals applying for employment with Company and/or Company’s third-party business partners</p>
+        <br />
+        <br />
+        <h3>Your California Privacy Rights</h3>
+        <p>
+            The following does not apply to individuals who are not residents of the State of California, individuals
+            applying for employment with Company and/or Company’s third-party business partners
+        </p>
         <p>Opt-Out from the Sale of Your Personal Information</p>
-        <p>Company acts as a data broker, as that term is defined in California Civil Code section 1798.99.80 et seq., with respect to consumer information.  As such, if you are a California resident consumer, you have the right to opt-out of our sale of your personal information to third parties.  To exercise the right to opt-out of our sale of your personal information to third parties, please submit a verifiable request to us by either:</p>
+        <p>
+            Company acts as a data broker, as that term is defined in California Civil Code section 1798.99.80 et seq.,
+            with respect to consumer information. As such, if you are a California resident consumer, you have the right
+            to opt-out of our sale of your personal information to third parties. To exercise the right to opt-out of
+            our sale of your personal information to third parties, please submit a verifiable request to us by either:
+        </p>
 
+        <ul>
+            <li>Clicking here;</li>
+            <li>Calling us at: 386-256-3836;</li>
+            <li>Emailing us at: consumerinquiries@callcoremedia.com; or</li>
+            <li>Sending us U.S. mail to: Callcore Media, 1540 Cornerstone Blvd, Suite 120, Daytona Beach, FL 32117.</li>
+        </ul>
     </section>
 </template>
 
 <style scoped>
 section {
     margin: 6rem 10%;
+}
+
+ul, li {
+    overflow: visible;
+}
+
+
+h3 {
+    font-weight: bold;
+    font-size: 20px;
 }
 
 p {

@@ -31,7 +31,7 @@ import { useRoute } from "vue-router";
     top: v-bind("scrollPos <= headerSizeChange ? '-20vh' : '0px' ");
     height: v-bind("scrollPos <= headerSizeChange ? '100vh' : '80px' ");
     /* top: v-bind("scrollPos <= headerSizeChange ? '0' : '-80px' "); */
-    padding: v-bind("scrollPos <= headerSizeChange ? '0 2rem' : '0px 3rem' ");
+    padding: v-bind("scrollPos <= headerSizeChange ? '0 8rem 0 2rem' : '0px 3rem' ");
     background-color: v-bind("scrollPos <= headerSizeChange ? '' : 'white' ");
     box-shadow: v-bind("scrollPos <= headerSizeChange ? '' : '0px -35px 50px 10px black'");
 }

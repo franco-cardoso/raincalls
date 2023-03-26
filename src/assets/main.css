@@ -14,8 +14,10 @@
   scroll-behavior: smooth;
 }
 
-ul {
-    list-style: none;
+
+
+li {
+    display: list-item;
 }
 
 ::-webkit-scrollbar {
