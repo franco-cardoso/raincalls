@@ -113,8 +113,8 @@ nav {
     }
 
     .lw-fixed {
-        height: 230px;
-        width: 100%;
+        height: 80px;
+        width: 170px;
     }
 
 
