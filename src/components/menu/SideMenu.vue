@@ -59,6 +59,19 @@ a {
         transform: translateX(0px);
     }
 }
+
+@media (max-width: 720px) {
+    section {
+        width: 60%;
+    }
+}
+
+@media (max-width: 400px) {
+    section {
+        width: 80%;
+    }
+}
+
 </style>
 
 <script>

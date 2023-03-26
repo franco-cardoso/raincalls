@@ -1,6 +1,6 @@
 <template>
     <span>
-        <svg width="70px" height="70px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg width="50px" height="50px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
             <g id="Menu / Hamburger_LG">
                 <path
                     id="Vector"

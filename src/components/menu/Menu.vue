@@ -29,6 +29,7 @@ const toggleMenu = () => {
     all: unset;
     position: fixed;
     right: 0;
+    top: 13px;
     cursor: pointer;
     margin: 0 2rem 0 0;
 }
