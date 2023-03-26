@@ -1,10 +1,12 @@
 <template>
     <section>
-        <span style="position: relative; top: -20px; background-color: red" id="specialties"></span>
-        <h1>OUR SPECIALTIES</h1>
-        <div class="services-grid">
-            <div v-for="item in items">
-                <Item :title="item.title" :text="item.text"></Item>
+        <div class="wrapper">
+            <span style="position: relative; top: -20px; background-color: red" id="specialties"></span>
+            <h1>OUR SPECIALTIES</h1>
+            <div class="services-grid">
+                <div v-for="item in items">
+                    <Item :title="item.title" :text="item.text"></Item>
+                </div>
             </div>
         </div>
     </section>
@@ -18,18 +20,24 @@ h1 {
 }
 
 section {
+    background-color: rgb(255, 255, 255);
+    z-index: 3;
+    position: relative;
+    overflow: visible;
+}
+
+.wrapper {
     margin: 0rem 10rem;
-    padding: 3rem 0;
+    padding: 3rem 0 0;
     border-radius: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     /* box-shadow: 0px 10px 50px 15px black; */
-    z-index: 3;
     position: relative;
     top: -100px;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
 }
 
 .services-grid {

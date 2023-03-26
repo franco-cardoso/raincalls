@@ -1,14 +1,10 @@
-<script setup>
-import VueGtag from "vue-gtag";
-</script>
-
 <template>
     <section id="contact">
         <h1>Want to work with us?</h1>
         <h2>Let's Chat - We'd love to hear from you.</h2>
         <div class="buttons">
             <button @click="publisherButton">Publishers Click Here</button>
-            <button>Advertisers Click Here</button>
+            <button @click="advertisersButton">Advertisers Click Here</button>
         </div>
     </section>
 </template>
@@ -37,8 +33,10 @@ export default {
 
 <style scoped>
 section {
-    margin: 8rem;
+    margin: 0 0 8rem 0;
     text-align: center;
+    z-index: 3;
+    background-color: rgb(255, 255, 255);
 }
 
 button {

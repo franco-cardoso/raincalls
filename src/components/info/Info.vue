@@ -33,21 +33,23 @@
 }
 
 .diag:nth-child(1) {
-    top: -100px;
+    box-shadow: 0 -10px 50px 2px #000000;
+    top: -60px;
 }
 
 .diag:nth-child(4) {
-    bottom: -100px;
+    box-shadow: 0 10px 50px 2px #000000;
+    bottom: -60px;
 }
 
 section {
     /* margin: 5rem 0; */
-    padding: 8rem 0;
+    padding: 12rem 0;
     gap: 2rem;
     display: flex;
     justify-content: center;
     align-items: center;
-    z-index: 2;
+    z-index: -2;
     border: solid black;
     position: relative;
     overflow: visible;
