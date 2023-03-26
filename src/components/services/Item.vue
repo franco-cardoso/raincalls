@@ -26,7 +26,7 @@ p {
     flex-direction: column;
     justify-content: flex-start;
     padding: 1rem;
-    width: 400px;
+    width: 300px;
     height: 400px;
     border: solid rgba(0, 0, 0, 0.521);
     box-shadow: 4px 4px 10px -5px black;

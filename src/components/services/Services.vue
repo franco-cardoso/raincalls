@@ -27,7 +27,7 @@ section {
 }
 
 .wrapper {
-    margin: 0rem 10rem;
+    margin: 0rem 16rem;
     padding: 3rem 0 0;
     border-radius: 20px;
     display: flex;
@@ -89,12 +89,12 @@ const items = [
         text: "Our operations span the entire lead generation spectrum. With over a decade of resources and a team of specialists covering the entire market, we can obtain traffic in virtually any domain. Whether your focus is on high volume or a niche product offering, we're here to assist you!",
     },
     {
-        title: "Rapid Pace",
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam commodo et ex a convallis. Suspendisse tempor risus non consequat maximus. Aenean maximus elit vitae dui ornare accumsan. Aliquam et fringilla neque. Suspendisse quis turpis vitae sem rhoncus consectetur. Mauris finibus vestibulum porta. Mauris blandit lorem sagittis dapibus blandit",
+        title: "Home Services",
+        text: "We can cover any and all home service project businesses - From Plumbing, Pest Control, HVAC, Bathroom & Kitchen Remodels and more! We can make it rain calls on any home service business.",
     },
     {
-        title: "Level of Care",
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam commodo et ex a convallis. Suspendisse tempor risus non consequat maximus. Aenean maximus elit vitae dui ornare accumsan. Aliquam et fringilla neque. Suspendisse quis turpis vitae sem rhoncus consectetur. Mauris finibus vestibulum porta. Mauris blandit lorem sagittis dapibus blandit",
+        title: "We care about your campaign",
+        text: "Our commitment extends to both our publishers and advertisers alike. Our team will devote their efforts to fine-tuning every aspect of a campaign for optimal results. We provide regular internal reports on performance and share daily quality feedback to ensure that you are always in the loop and prepared.t",
     },
 ];
 </script>
