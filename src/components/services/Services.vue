@@ -56,7 +56,7 @@ section {
 }
 
 @media (max-width: 1280px) {
-    section {
+    .wrapper {
         top: 0;
         margin: 0;
     }
