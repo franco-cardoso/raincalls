@@ -4,7 +4,7 @@ import { useRoute } from "vue-router";
 
 <template>
     <section>
-        <button @click="toggleMenu">x</button>
+        <button @click="toggleMenu">X</button>
         <hr>
         <ul>
             <li><a :class="route.path === '/' ? 'a-dyn' : 'a-fixed'" href="/#home">HOME</a></li>
@@ -27,6 +27,14 @@ section {
     animation-name: slideMenu;
     animation-duration: 300ms;
     animation-timing-function: ease-out;
+}
+
+button {
+    all: unset;
+    cursor: pointer;
+    padding: 1rem 40px;
+    font-size: 26px;
+    font-weight: bold;
 }
 
 li {

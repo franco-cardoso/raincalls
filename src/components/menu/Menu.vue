@@ -42,19 +42,6 @@ const toggleMenu = () => {
     display: block;
 }
 
-@keyframes slideMenu {
-    from {
-        /* transform: translateX(300px); */
-        right: -300px;
-    }
-
-    to {
-        right: 0;
-        /* transform: translateX(0px); */
-
-    }
-}
-
 @media (max-width: 920px) {
     .container {
         display: block;
