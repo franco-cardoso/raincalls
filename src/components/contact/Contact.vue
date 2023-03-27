@@ -3,8 +3,18 @@
         <h1>Want to work with us?</h1>
         <h2>Let's Chat - We'd love to hear from you.</h2>
         <div class="buttons">
-            <button @click="publisherButton">Publishers Click Here</button>
-            <button @click="advertisersButton">Advertisers Click Here</button>
+            <a
+                href="https://docs.google.com/forms/d/e/1FAIpQLSf0xfHubkmma5Y5GcM1txGJU5YwITI39UNnIb_nIZsNkslIEA/viewform?usp=sf_link"
+                target="_blank"
+                @click="publisherButton"
+                >Publishers Click Here</a
+            >
+            <a
+                href="https://docs.google.com/forms/d/e/1FAIpQLSfZor1BuSEY2VHIZEn7vikYVxpZQ986VwGqWuJbVORa7VeECA/viewform?usp=sf_link"
+                target="_blank"
+                @click="advertisersButton"
+                >Advertisers Click Here</a
+            >
         </div>
     </section>
 </template>
@@ -14,18 +24,18 @@ export default {
     name: "Contact",
     methods: {
         publisherButton() {
-            this.$gtag.event('publishers-button', {
-                'event_category': 'forms',
-                'event_label': "'Publishers click here' button clicked",
-                'value':1,
-            })
+            this.$gtag.event("publishers-button", {
+                event_category: "forms",
+                event_label: "'Publishers click here' button clicked",
+                value: 1,
+            });
         },
         advertisersButton() {
-            this.$gtag.event('advertisers-button', {
-                'event_category': 'forms',
-                'event_label': "'Advertisers click here' button clicked",
-                'value':1,
-            })
+            this.$gtag.event("advertisers-button", {
+                event_category: "forms",
+                event_label: "'Advertisers click here' button clicked",
+                value: 1,
+            });
         },
     },
 };
@@ -39,12 +49,12 @@ section {
     background-color: rgb(255, 255, 255);
 }
 
-button {
+a {
     all: unset;
     cursor: pointer;
     transition: 1s;
     font-size: 22px;
-    background-color: #4658f8;
+    background-color: #4ac99a;
     padding: 20px;
     color: rgb(235, 235, 235);
     border-radius: 4px;
@@ -52,8 +62,8 @@ button {
     text-align: center;
 }
 
-button:hover {
-    background-color: #232c81;
+a:hover {
+    background-color: #28a577;
 }
 
 .buttons {
@@ -93,6 +103,5 @@ h2 {
     button {
         font-size: 15px;
     }
-
 }
 </style>
