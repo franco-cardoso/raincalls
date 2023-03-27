@@ -3373,7 +3373,7 @@ import Banner from "../components/banner/Banner.vue";
                     vertical-align: baseline;
                     white-space: pre-wrap;
                 "
-                >Last Updated: November 17. 2022</span
+                >Last Updated: March 25. 2023</span
             >
         </p>
         <p>&nbsp;</p>

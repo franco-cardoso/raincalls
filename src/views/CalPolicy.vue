@@ -6203,7 +6203,7 @@ import Banner from "../components/banner/Banner.vue";
                     vertical-align: baseline;
                     white-space: pre-wrap;
                 "
-                >LAST UPDATED NOVEMBER, 17, 2022</span
+                >LAST UPDATED MARCH, 25, 2023</span
             >
         </p>
         <p>
