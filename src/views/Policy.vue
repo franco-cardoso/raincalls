@@ -4,32 +4,32 @@ import Banner from "../components/banner/Banner.vue";
 
 <template>
     <section>
-        <p
+        <h1
             dir="ltr"
             style="
-                line-height: 1.38;
+                line-height: 1.44;
                 background-color: #ffffff;
                 margin-top: 0pt;
                 margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
+                padding: 0pt 0pt 6pt 0pt;
             "
         >
             <span
                 style="
-                    font-size: 16pt;
+                    font-size: 23pt;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: #8BD8BC;
                     background-color: transparent;
-                    font-weight: 400;
+                    font-weight: bold;
                     font-style: normal;
                     font-variant: normal;
                     text-decoration: none;
                     vertical-align: baseline;
                     white-space: pre-wrap;
                 "
-                >RAINCALLS, INC. WEBSITE PRIVACY POLICY</span
+                >RAINCALLS WEBSITE PRIVACY POLICY</span
             >
-        </p>
+        </h1>
         <p
             dir="ltr"
             style="

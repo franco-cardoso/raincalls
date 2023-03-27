@@ -20,7 +20,7 @@
             <h2>PRIVACY & TERMS</h2>
             <ul>
                 <li><a href="/privacy-policy">Privacy Policy</a></li>
-                <li><a href="#">California Privacy Policy</a></li>
+                <li><a href="/california-privacy-policy">California Privacy Policy</a></li>
                 <li><a href="#">Terms and Conditions</a></li>
                 <li><a href="#">Opt-Out / Unsubscribe</a></li>
             </ul>
