@@ -94,7 +94,7 @@ const items = [
     },
     {
         title: "We care about your campaign",
-        text: "Our commitment extends to both our publishers and advertisers alike. Our team will devote their efforts to fine-tuning every aspect of a campaign for optimal results. We provide regular internal reports on performance and share daily quality feedback to ensure that you are always in the loop and prepared.t",
+        text: "Our commitment extends to both our publishers and advertisers alike. Our team will devote their efforts to fine-tuning every aspect of a campaign for optimal results. We provide regular internal reports on performance and share daily quality feedback to ensure that you are always in the loop and prepared.",
     },
 ];
 </script>
