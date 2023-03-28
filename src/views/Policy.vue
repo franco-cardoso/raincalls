@@ -42,9 +42,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -191,9 +191,9 @@ import Banner from "../components/banner/Banner.vue";
                 >”)</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -232,9 +232,9 @@ import Banner from "../components/banner/Banner.vue";
                 >.&nbsp; </span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -259,7 +259,7 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: #ffffff;
@@ -273,7 +273,7 @@ import Banner from "../components/banner/Banner.vue";
                 >Please note, if you are a resident of a European Union Member State (“</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: #ffffff;
@@ -289,7 +289,7 @@ import Banner from "../components/banner/Banner.vue";
                 >EU Resident</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: #ffffff;
@@ -303,7 +303,7 @@ import Banner from "../components/banner/Banner.vue";
                 >”), you are not permitted to use the Site and/or Company Offerings (as defined below)</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: #ffffff;
@@ -373,7 +373,7 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -399,7 +399,7 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -414,7 +414,7 @@ import Banner from "../components/banner/Banner.vue";
                 when an end-user visitor to the Site (“</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -430,7 +430,7 @@ import Banner from "../components/banner/Banner.vue";
                 >User</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -444,7 +444,7 @@ import Banner from "../components/banner/Banner.vue";
                 >,” “</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -460,7 +460,7 @@ import Banner from "../components/banner/Banner.vue";
                 >you</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -474,7 +474,7 @@ import Banner from "../components/banner/Banner.vue";
                 >” or “</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -490,7 +490,7 @@ import Banner from "../components/banner/Banner.vue";
                 >your</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -506,7 +506,7 @@ import Banner from "../components/banner/Banner.vue";
                 Site, as made available by Company (collectively, the “</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -522,7 +522,7 @@ import Banner from "../components/banner/Banner.vue";
                 >Content</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -537,7 +537,7 @@ import Banner from "../components/banner/Banner.vue";
                 (collectively, the “</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -553,7 +553,7 @@ import Banner from "../components/banner/Banner.vue";
                 >Company Services</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -568,7 +568,7 @@ import Banner from "../components/banner/Banner.vue";
                 Company (collectively, “</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -584,7 +584,7 @@ import Banner from "../components/banner/Banner.vue";
                 >Contact Services</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -598,7 +598,7 @@ import Banner from "../components/banner/Banner.vue";
                 >”); (e) accesses information regarding employment opportunities with Company (“</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -614,7 +614,7 @@ import Banner from "../components/banner/Banner.vue";
                 >Career Opportunity Services</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -629,7 +629,7 @@ import Banner from "../components/banner/Banner.vue";
                 websites, such as Facebook</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -643,7 +643,7 @@ import Banner from "../components/banner/Banner.vue";
                 ><span style="font-size: 0.6em; vertical-align: super">®</span></span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -657,7 +657,7 @@ import Banner from "../components/banner/Banner.vue";
                 >, Instagram</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -671,7 +671,7 @@ import Banner from "../components/banner/Banner.vue";
                 ><span style="font-size: 0.6em; vertical-align: super">®</span></span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -685,7 +685,7 @@ import Banner from "../components/banner/Banner.vue";
                 >, LinkedIn</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -699,7 +699,7 @@ import Banner from "../components/banner/Banner.vue";
                 ><span style="font-size: 0.6em; vertical-align: super">®</span></span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -714,7 +714,7 @@ import Banner from "../components/banner/Banner.vue";
                 and Twitter</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -728,7 +728,7 @@ import Banner from "../components/banner/Banner.vue";
                 ><span style="font-size: 0.6em; vertical-align: super">®</span></span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -743,7 +743,7 @@ import Banner from "../components/banner/Banner.vue";
                 (collectively, “</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -759,7 +759,7 @@ import Banner from "../components/banner/Banner.vue";
                 >Social Media Pages</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -774,7 +774,7 @@ import Banner from "../components/banner/Banner.vue";
                 Opportunity Services, the “</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -790,7 +790,7 @@ import Banner from "../components/banner/Banner.vue";
                 >Company Offerings</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -816,7 +816,7 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -831,7 +831,7 @@ import Banner from "../components/banner/Banner.vue";
                 Conditions (“</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -847,7 +847,7 @@ import Banner from "../components/banner/Banner.vue";
                 >Terms</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -874,7 +874,7 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -888,7 +888,7 @@ import Banner from "../components/banner/Banner.vue";
                 >Instagram</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -902,7 +902,7 @@ import Banner from "../components/banner/Banner.vue";
                 ><span style="font-size: 0.6em; vertical-align: super">®</span></span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -917,7 +917,7 @@ import Banner from "../components/banner/Banner.vue";
                 and Facebook</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -931,7 +931,7 @@ import Banner from "../components/banner/Banner.vue";
                 ><span style="font-size: 0.6em; vertical-align: super">®</span></span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -946,7 +946,7 @@ import Banner from "../components/banner/Banner.vue";
                 are registered trademarks of (“</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -962,7 +962,7 @@ import Banner from "../components/banner/Banner.vue";
                 >Facebook</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -976,7 +976,7 @@ import Banner from "../components/banner/Banner.vue";
                 >”).&nbsp; LinkedIn</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -990,7 +990,7 @@ import Banner from "../components/banner/Banner.vue";
                 ><span style="font-size: 0.6em; vertical-align: super">®</span></span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -1005,7 +1005,7 @@ import Banner from "../components/banner/Banner.vue";
                 is a registered trademark of LinkedIn Corporation (“</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -1021,7 +1021,7 @@ import Banner from "../components/banner/Banner.vue";
                 >LinkedIn</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -1035,7 +1035,7 @@ import Banner from "../components/banner/Banner.vue";
                 >”).&nbsp; Twitter</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -1049,7 +1049,7 @@ import Banner from "../components/banner/Banner.vue";
                 ><span style="font-size: 0.6em; vertical-align: super">®</span></span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -1064,7 +1064,7 @@ import Banner from "../components/banner/Banner.vue";
                 is a registered trademark of Twitter, Inc. (“</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -1080,7 +1080,7 @@ import Banner from "../components/banner/Banner.vue";
                 >Twitter</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -1144,7 +1144,7 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -1170,7 +1170,7 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -1197,7 +1197,7 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -1214,7 +1214,7 @@ import Banner from "../components/banner/Banner.vue";
         <p dir="ltr" style="line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 12pt">
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -1237,7 +1237,7 @@ import Banner from "../components/banner/Banner.vue";
                 dir="ltr"
                 style="
                     list-style-type: disc;
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -1258,7 +1258,7 @@ import Banner from "../components/banner/Banner.vue";
                     <a style="text-decoration: none" href="https://www.raincalls.com/opt-out-unsubscribe/"
                         ><span
                             style="
-                                font-size: 18px;
+                                font-size: 20px;
                                 font-family: Montserrat, sans-serif;
                                 color: #0082ca;
                                 background-color: transparent;
@@ -1273,7 +1273,7 @@ import Banner from "../components/banner/Banner.vue";
                         ></a
                     ><span
                         style="
-                            font-size: 18px;
+                            font-size: 20px;
                             font-family: Montserrat, sans-serif;
                             color: #212529;
                             background-color: transparent;
@@ -1294,7 +1294,7 @@ import Banner from "../components/banner/Banner.vue";
                 dir="ltr"
                 style="
                     list-style-type: disc;
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -1314,7 +1314,7 @@ import Banner from "../components/banner/Banner.vue";
                 >
                     <span
                         style="
-                            font-size: 18px;
+                            font-size: 20px;
                             font-family: Montserrat, sans-serif;
                             color: #212529;
                             background-color: transparent;
@@ -1333,7 +1333,7 @@ import Banner from "../components/banner/Banner.vue";
                 dir="ltr"
                 style="
                     list-style-type: disc;
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -1354,7 +1354,7 @@ import Banner from "../components/banner/Banner.vue";
                 >
                     <span
                         style="
-                            font-size: 18px;
+                            font-size: 20px;
                             font-family: Montserrat, sans-serif;
                             color: #212529;
                             background-color: transparent;
@@ -1368,7 +1368,7 @@ import Banner from "../components/banner/Banner.vue";
                         >Emailing us at:&nbsp; </span
                     ><span
                         style="
-                            font-size: 18px;
+                            font-size: 20px;
                             font-family: Montserrat, sans-serif;
                             color: #0082ca;
                             background-color: transparent;
@@ -1396,7 +1396,7 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -1423,7 +1423,7 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -1437,7 +1437,7 @@ import Banner from "../components/banner/Banner.vue";
                 >Shine the Light</span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -1454,7 +1454,7 @@ import Banner from "../components/banner/Banner.vue";
                 please call us at: 321-948-5497; e-mail us at: </span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #0082ca;
                     background-color: transparent;
@@ -1480,7 +1480,7 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -1506,7 +1506,7 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #212529;
                     background-color: transparent;
@@ -1521,7 +1521,7 @@ import Banner from "../components/banner/Banner.vue";
                 information to any third party data broker, please call us at: 321-948-5497; e-mail us at: </span
             ><span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: #0082ca;
                     background-color: transparent;
@@ -1559,9 +1559,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -1585,9 +1585,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -1628,9 +1628,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -1654,9 +1654,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -1711,9 +1711,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -1737,9 +1737,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -1783,9 +1783,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -1825,9 +1825,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -1853,9 +1853,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -1899,9 +1899,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -1939,9 +1939,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -1982,9 +1982,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -2033,9 +2033,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -2085,9 +2085,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -2140,9 +2140,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -2166,9 +2166,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -2224,9 +2224,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -2250,9 +2250,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -2295,9 +2295,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -2336,9 +2336,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -2389,9 +2389,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -2415,9 +2415,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -2470,9 +2470,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -2496,9 +2496,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -2540,9 +2540,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -2590,9 +2590,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -2633,9 +2633,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -2687,9 +2687,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -2713,9 +2713,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -2772,9 +2772,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -2798,9 +2798,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -2838,9 +2838,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -2892,9 +2892,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -2918,9 +2918,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -2963,9 +2963,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -3003,9 +3003,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -3055,9 +3055,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -3081,9 +3081,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -3137,9 +3137,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -3163,9 +3163,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -3216,9 +3216,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -3242,9 +3242,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -3297,9 +3297,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -3323,9 +3323,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -3335,7 +3335,7 @@ import Banner from "../components/banner/Banner.vue";
                     white-space: pre-wrap;
                 "
                 >If you have any questions about this Privacy Policy or our privacy practices in general, you may email
-                us as at: p32nicky@gmail.com; call us at: 386 256 3836.</span
+                us as at: p32nicky@gmail.com; call us at: 321-948-5497.</span
             >
         </p>
         <p
@@ -3362,9 +3362,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -3373,7 +3373,7 @@ import Banner from "../components/banner/Banner.vue";
                     vertical-align: baseline;
                     white-space: pre-wrap;
                 "
-                >Last Updated: March 25. 2023</span
+                >Last Updated: March 27. 2023</span
             >
         </p>
         <p>&nbsp;</p>
@@ -3401,7 +3401,7 @@ h3 {
 }
 
 p {
-    font-size: 18px;
+    font-size: 20px;
     margin: 15px 0;
 }
 .underline {

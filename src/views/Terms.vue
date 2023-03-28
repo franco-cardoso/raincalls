@@ -16,9 +16,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -43,9 +43,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -87,9 +87,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -138,9 +138,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -180,9 +180,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -220,51 +220,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre;
-                    white-space: pre-wrap;
-                "
-                >Instagram® and Facebook® are registered trademarks of (“Facebook”). LinkedIn® is a registered trademark
-                of LinkedIn Corporation (“LinkedIn”). Twitter® is a registered trademark of Twitter, Inc. (“Twitter”).
-                Please be advised that Company is not in any way affiliated with Facebook, LinkedIn or Twitter, and the
-                Company Offerings are not endorsed, administered or sponsored by Facebook, LinkedIn or Twitter.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 18px;
-                    font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -312,9 +270,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -370,9 +328,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -423,9 +381,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -473,9 +431,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -518,9 +476,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -560,9 +518,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -605,9 +563,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -648,9 +606,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -692,9 +650,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -741,9 +699,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -794,9 +752,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -851,9 +809,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -900,9 +858,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -956,9 +914,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -1019,9 +977,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -1068,9 +1026,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -1090,7 +1048,7 @@ import Banner from "../components/banner/Banner.vue";
             <span
                 style="
                     background-color: rgb(255, 255, 255);
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
                     color: rgb(33, 37, 41);
                     font-weight: 400;
@@ -1133,9 +1091,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -1178,9 +1136,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -1229,9 +1187,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -1280,9 +1238,9 @@ import Banner from "../components/banner/Banner.vue";
         >
             <span
                 style="
-                    font-size: 18px;
+                    font-size: 20px;
                     font-family: Montserrat, sans-serif;
-                    color: #686868;
+                    color: black;
                     background-color: transparent;
                     font-weight: 400;
                     font-style: normal;
@@ -1298,7 +1256,7 @@ import Banner from "../components/banner/Banner.vue";
         </p>
         <p>
             <span style="font-family: Montserrat, sans-serif; font-size: 17.3333px; white-space: pre-wrap"
-                >Last Updated: November 17. 2022</span
+                >Last Updated: March 27. 2023</span
             ><br />
         </p>
         <p></p>
@@ -1326,7 +1284,7 @@ h3 {
 }
 
 p {
-    font-size: 18px;
+    font-size: 20px;
     margin: 15px 0;
 }
 .underline {

@@ -85,12 +85,12 @@ const items = [
         text: "We excel in identifying the perfect consumer for solar products, taking into account factors such as zip code, income, and historical intent. We make certain that our solar media purchases can seamlessly integrate into any business model, regardless of its size or scope!",
     },
     {
-        title: "Other Verticals",
-        text: "Our operations span the entire lead generation spectrum. With over a decade of resources and a team of specialists covering the entire market, we can obtain traffic in virtually any domain. Whether your focus is on high volume or a niche product offering, we're here to assist you!",
-    },
-    {
         title: "Home Services",
         text: "We can cover any and all home service project businesses - From Plumbing, Pest Control, HVAC, Bathroom & Kitchen Remodels and more! We can make it rain calls on any home service business.",
+    },
+    {
+        title: "Other Verticals",
+        text: "Our operations span the entire lead generation spectrum. With over a decade of resources and a team of specialists covering the entire market, we can obtain traffic in virtually any domain. Whether your focus is on high volume or a niche product offering, we're here to assist you!",
     },
     {
         title: "We care about your campaign",
