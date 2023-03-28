@@ -20,8 +20,6 @@
             <h2>PRIVACY & TERMS</h2>
             <ul>
                 <li><a href="/privacy-policy">Privacy Policy</a></li>
-                <li><a href="/california-privacy-policy">California Privacy Policy</a></li>
-                <li><a href="/terms-and-conditions">Terms and Conditions</a></li>
                 <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScodmCtR2Cm2us-_9xmdWtv0COWYiDfiOdR7pe7zCyCuaQcqw/viewform?usp=sf_link" target="_blank">Opt-Out / Unsubscribe</a></li>
             </ul>
         </div>

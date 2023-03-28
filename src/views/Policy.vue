@@ -4,3385 +4,375 @@ import Banner from "../components/banner/Banner.vue";
 
 <template>
     <section>
-        <h1
-            dir="ltr"
-            style="
-                line-height: 1.44;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 6pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 23pt;
-                    font-family: Montserrat, sans-serif;
-                    color: #8BD8BC;
-                    background-color: transparent;
-                    font-weight: bold;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >RAINCALLS WEBSITE PRIVACY POLICY</span
-            >
-        </h1>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Thank you for visiting the Raincalls, Inc. (the “Company,” “we,” “our” or “us”) website located at
-                raincalls.com (the “Site” which is owned and operated by Raincalls, Inc. (</span
-            ><span
-                style="
-                    font-size: 12pt;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: #ffffff;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >“</span
-            ><span
-                style="
-                    font-size: 12pt;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: #ffffff;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: underline;
-                    -webkit-text-decoration-skip: none;
-                    text-decoration-skip-ink: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Company</span
-            ><span
-                style="
-                    font-size: 12pt;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: #ffffff;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >,” “</span
-            ><span
-                style="
-                    font-size: 12pt;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: #ffffff;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: underline;
-                    -webkit-text-decoration-skip: none;
-                    text-decoration-skip-ink: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >we</span
-            ><span
-                style="
-                    font-size: 12pt;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: #ffffff;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >,” “</span
-            ><span
-                style="
-                    font-size: 12pt;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: #ffffff;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: underline;
-                    -webkit-text-decoration-skip: none;
-                    text-decoration-skip-ink: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >our</span
-            ><span
-                style="
-                    font-size: 12pt;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: #ffffff;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >” or “</span
-            ><span
-                style="
-                    font-size: 12pt;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: #ffffff;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: underline;
-                    -webkit-text-decoration-skip: none;
-                    text-decoration-skip-ink: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >us</span
-            ><span
-                style="
-                    font-size: 12pt;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: #ffffff;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >”)</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >. The Site was created to provide information about our Company and services. We value the privacy of
-                our visitors (“you,” “your,” or “user”). To protect your personal information, we have implemented the
-                following Privacy Policy with provisions that apply to the collection of data by the Company, its
-                subsidiaries, and its affiliates. The Site is property of the Company. This Privacy Policy addresses our
-                treatment of personal information and other information that we collect when you visit or use the site
-                and/or use the various contact forms and/or contact information made available on the Site
-                (collectively, the “Contact Services”). The Contact Services, information and services provided through
-                the Site shall be the “Site Offerings”. Our Privacy Policy discloses the type and nature of information
-                we collect and how we use it, as well as the choices you can make about the way your information is
-                collected and used. We also explain how any requests for personal or personally identifiable information
-                will be used. If you follow any links that direct you away from the Website, this Privacy Policy will
-                not apply to your activity on the other websites you visit. We do not control the privacy policies or
-                the privacy practices of any third parties. Capitalized terms not defined herein shall have the meanings
-                set forth in the Raincalls Terms and Conditions (“Terms and Conditions”)</span
-            ><span
-                style="
-                    font-size: 12pt;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: #ffffff;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >.&nbsp; </span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >IF YOU DO NOT AGREE TO TERMS OF THIS PRIVACY POLICY IN THEIR ENTIRETY, YOU MAY NOT ACCESS OR OTHERWISE
-                USE THE SITE OFFERINGS.</span
-            >
+        <h1>Privacy Policy &nbsp;</h1>
+        <p><br /></p>
+        <p>Last updated: March 28, 2023</p>
+        <p><br /></p>
+        <p>
+            This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your
+            information when You use the Service and tells You about Your privacy rights and how the law protects you.
         </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: #ffffff;
-                    font-weight: bold;
-                    font-style: italic;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Please note, if you are a resident of a European Union Member State (“</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: #ffffff;
-                    font-weight: bold;
-                    font-style: italic;
-                    font-variant: normal;
-                    text-decoration: underline;
-                    -webkit-text-decoration-skip: none;
-                    text-decoration-skip-ink: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >EU Resident</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: #ffffff;
-                    font-weight: bold;
-                    font-style: italic;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >”), you are not permitted to use the Site and/or Company Offerings (as defined below)</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: #ffffff;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >.</span
-            >
+        <p>
+            We use Your Personal data to provide and improve the Service. By using the Service, You agree to the
+            collection and use of information in accordance with this Privacy Policy.
         </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <b
-                >Please note, if you are a resident of California, Company may have accessed your personal information
-                in connection with Company’s role as&nbsp;data broker, as that term is defined in California Civil Code
-                section 1798.99.80 et seq. &nbsp;California State residents should&nbsp;<a
-                    href="https://www.raincalls.com/california-privacy-policy/"
-                    >Click Here</a
-                >&nbsp;for our privacy policy applicable to the collection, storage and use of the personal information
-                of California State residents in connection with our role as a data broker.</b
-            >
+        <br />
+
+        <h2>Interpretations and Definitions</h2>
+        <br />
+        <h3>Interpretation</h3>
+        <p>
+            The words of which the initial letter is capitalized have meanings defined under the following conditions.
+            The following definitions shall have the same meaning regardless of whether they appear in singular or in
+            plural.
         </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 12pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Background</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 12pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >This Privacy Policy covers our treatment of personal information and other information that we collect
-                when an end-user visitor to the Site (“</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: underline;
-                    -webkit-text-decoration-skip: none;
-                    text-decoration-skip-ink: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >User</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >,” “</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: underline;
-                    -webkit-text-decoration-skip: none;
-                    text-decoration-skip-ink: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >you</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >” or “</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: underline;
-                    -webkit-text-decoration-skip: none;
-                    text-decoration-skip-ink: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >your</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >”): (a) accesses or uses the Site; (b) accesses and/or views any of the videos, audio, stories,
-                testimonials, text, photographs, graphics, artwork, information and/or other content featured on the
-                Site, as made available by Company (collectively, the “</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: underline;
-                    -webkit-text-decoration-skip: none;
-                    text-decoration-skip-ink: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Content</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >”); (c) accesses information pertaining to Company’s various marketing products and/or services
-                (collectively, the “</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: underline;
-                    -webkit-text-decoration-skip: none;
-                    text-decoration-skip-ink: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Company Services</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >”); (d) utilizes the contact form and/or other functionality as a means to request being contacted by
-                Company (collectively, “</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: underline;
-                    -webkit-text-decoration-skip: none;
-                    text-decoration-skip-ink: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Contact Services</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >”); (e) accesses information regarding employment opportunities with Company (“</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: underline;
-                    -webkit-text-decoration-skip: none;
-                    text-decoration-skip-ink: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Career Opportunity Services</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >”); and/or (f) accesses links to Company’s social media pages/accounts on third-party social media
-                websites, such as Facebook</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                ><span style="font-size: 0.6em; vertical-align: super">®</span></span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >, Instagram</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                ><span style="font-size: 0.6em; vertical-align: super">®</span></span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >, LinkedIn</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                ><span style="font-size: 0.6em; vertical-align: super">®</span></span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-            >
-                and Twitter</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                ><span style="font-size: 0.6em; vertical-align: super">®</span></span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-            >
-                (collectively, “</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: underline;
-                    -webkit-text-decoration-skip: none;
-                    text-decoration-skip-ink: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Social Media Pages</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >,” and together with the Site, Content, Company Services, Company Platform, Contact Services and Career
-                Opportunity Services, the “</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: underline;
-                    -webkit-text-decoration-skip: none;
-                    text-decoration-skip-ink: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Company Offerings</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >”).&nbsp;&nbsp;</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 12pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Capitalized terms not defined herein shall have the meanings set forth in the Raincalls Terms and
-                Conditions (“</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: underline;
-                    -webkit-text-decoration-skip: none;
-                    text-decoration-skip-ink: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Terms</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >”).&nbsp; IF YOU DO NOT AGREE TO TERMS OF THIS PRIVACY POLICY IN THEIR ENTIRETY, YOU MAY NOT ACCESS OR
-                OTHERWISE USE THE COMPANY OFFERINGS.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 12pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: italic;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Instagram</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: italic;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                ><span style="font-size: 0.6em; vertical-align: super">®</span></span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: italic;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-            >
-                and Facebook</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: italic;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                ><span style="font-size: 0.6em; vertical-align: super">®</span></span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: italic;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-            >
-                are registered trademarks of (“</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: italic;
-                    font-variant: normal;
-                    text-decoration: underline;
-                    -webkit-text-decoration-skip: none;
-                    text-decoration-skip-ink: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Facebook</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: italic;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >”).&nbsp; LinkedIn</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: italic;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                ><span style="font-size: 0.6em; vertical-align: super">®</span></span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: italic;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-            >
-                is a registered trademark of LinkedIn Corporation (“</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: italic;
-                    font-variant: normal;
-                    text-decoration: underline;
-                    -webkit-text-decoration-skip: none;
-                    text-decoration-skip-ink: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >LinkedIn</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: italic;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >”).&nbsp; Twitter</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: italic;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                ><span style="font-size: 0.6em; vertical-align: super">®</span></span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: italic;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-            >
-                is a registered trademark of Twitter, Inc. (“</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: italic;
-                    font-variant: normal;
-                    text-decoration: underline;
-                    -webkit-text-decoration-skip: none;
-                    text-decoration-skip-ink: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Twitter</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: italic;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >”).&nbsp; Please be advised that Company is not in any way affiliated with Facebook, LinkedIn or
-                Twitter, and the Company Offerings are not endorsed, administered or sponsored by Facebook, LinkedIn or
-                Twitter.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 12pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 12pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 12pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 12pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: bold;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Your California Privacy Rights</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 12pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >The following does not apply to individuals who are not residents of the State of California,
-                individuals applying for employment with Company and/or Company’s third-party business partners</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 12pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: italic;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Opt-Out from the Sale of Your Personal Information</span
-            >
-        </p>
-        <p dir="ltr" style="line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 12pt">
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Company acts as a data broker, as that term is defined in California Civil Code section 1798.99.80 et
-                seq., with respect to consumer information.&nbsp; As such, if you are a California resident consumer,
-                you have the right to opt-out of our sale of your personal information to third parties.&nbsp; To
-                exercise the right to opt-out of our sale of your personal information to third parties, please submit a
-                verifiable request to us by either:</span
-            >
-        </p>
-        <ul style="margin-top: 0; margin-bottom: 0; padding-inline-start: 48px">
-            <li
-                dir="ltr"
-                style="
-                    list-style-type: disc;
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre;
-                "
-                aria-level="1"
-            >
-                <p
-                    dir="ltr"
-                    style="line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt"
-                    role="presentation"
-                >
-                    <a style="text-decoration: none" href="https://www.raincalls.com/opt-out-unsubscribe/"
-                        ><span
-                            style="
-                                font-size: 20px;
-                                font-family: Montserrat, sans-serif;
-                                color: #0082ca;
-                                background-color: transparent;
-                                font-weight: 400;
-                                font-style: normal;
-                                font-variant: normal;
-                                text-decoration: none;
-                                vertical-align: baseline;
-                                white-space: pre-wrap;
-                            "
-                            >Clicking here</span
-                        ></a
-                    ><span
-                        style="
-                            font-size: 20px;
-                            font-family: Montserrat, sans-serif;
-                            color: #212529;
-                            background-color: transparent;
-                            font-weight: 400;
-                            font-style: normal;
-                            font-variant: normal;
-                            text-decoration: underline;
-                            -webkit-text-decoration-skip: none;
-                            text-decoration-skip-ink: none;
-                            vertical-align: baseline;
-                            white-space: pre-wrap;
-                        "
-                        >;</span
-                    >
-                </p>
+        <h3>Definitions</h3>
+        <p>For the purposes of this Privacy Policy:</p>
+        <ul>
+            <li>Account means a unique account created for You to access our Service or parts of our Service.</li>
+
+            <li>
+                Affiliate means an entity that controls, is controlled by or is under common control with a party, where
+                "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to
+                vote for election of directors or other managing authority.
             </li>
-            <li
-                dir="ltr"
-                style="
-                    list-style-type: disc;
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre;
-                "
-                aria-level="1"
-            >
-                <p
-                    dir="ltr"
-                    style="line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt"
-                    role="presentation"
-                >
-                    <span
-                        style="
-                            font-size: 20px;
-                            font-family: Montserrat, sans-serif;
-                            color: #212529;
-                            background-color: transparent;
-                            font-weight: 400;
-                            font-style: normal;
-                            font-variant: normal;
-                            text-decoration: none;
-                            vertical-align: baseline;
-                            white-space: pre-wrap;
-                        "
-                        >Calling us at: 321-948-5497;</span
-                    >
-                </p>
+
+            <li>
+                Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to
+                Raincalls, Corona, Ca.
             </li>
-            <li
-                dir="ltr"
-                style="
-                    list-style-type: disc;
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre;
-                    margin-bottom: 25px;
-                "
-                aria-level="1"
-            >
-                <p
-                    dir="ltr"
-                    style="line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt"
-                    role="presentation"
-                >
-                    <span
-                        style="
-                            font-size: 20px;
-                            font-family: Montserrat, sans-serif;
-                            color: #212529;
-                            background-color: transparent;
-                            font-weight: 400;
-                            font-style: normal;
-                            font-variant: normal;
-                            text-decoration: none;
-                            vertical-align: baseline;
-                            white-space: pre-wrap;
-                        "
-                        >Emailing us at:&nbsp; </span
-                    ><span
-                        style="
-                            font-size: 20px;
-                            font-family: Montserrat, sans-serif;
-                            color: #0082ca;
-                            background-color: transparent;
-                            font-weight: 400;
-                            font-style: normal;
-                            font-variant: normal;
-                            text-decoration: none;
-                            vertical-align: baseline;
-                            white-space: pre-wrap;
-                        "
-                        >p32nicky@gmail.com</span
-                    >
-                </p>
+
+            <li>
+                Cookies are small files that are placed on Your computer, mobile device or any other device by a
+                website, containing the details of Your browsing history on that website among its many uses.
+            </li>
+
+            <li>Country refers to: Florida, United States</li>
+
+            <li>
+                Device means any device that can access the Service such as a computer, a cellphone or a digital tablet.
+            </li>
+
+            <li>Personal Data is any information that relates to an identified or identifiable individual.</li>
+
+            <li>Service refers to the Website.</li>
+
+            <li>
+                Service Provider means any natural or legal person who processes the data on behalf of the Company. It
+                refers to third-party companies or individuals employed by the Company to facilitate the Service, to
+                provide the Service on behalf of the Company, to perform services related to the Service or to assist
+                the Company in analyzing how the Service is used.
+            </li>
+
+            <li>
+                Usage Data refers to data collected automatically, either generated by the use of the Service or from
+                the Service infrastructure itself (for example, the duration of a page visit).
+            </li>
+
+            <li>Website refers to RainCalls, accessible from www.raincalls.com</li>
+
+            <li>
+                You means the individual accessing or using the Service, or the company, or other legal entity on behalf
+                of which such individual is accessing or using the Service, as applicable.
             </li>
         </ul>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 12pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >We endeavor to act on all opt-out requests as soon as practicable, but in all cases within fifteen (15)
-                business days of the receipt of your request.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 12pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: italic;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Shine the Light</span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >.&nbsp; If you are a resident of the State of California and would like to learn how your personal
-                information is shared with third parties, what categories of personal information that we have shared
-                with third parties in the preceding year, as well as the names and addresses of those third parties,
-                please call us at: 321-948-5497; e-mail us at: </span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #0082ca;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >p32nicky@gmail.com.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 12pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: bold;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Your Nevada Privacy Rights</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 12pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #212529;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >If you are a resident of the State of Nevada and would like to opt-out from the sale of your personal
-                information to any third party data broker, please call us at: 321-948-5497; e-mail us at: </span
-            ><span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: #0082ca;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >p32nicky@gmail.com.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >NO ANONYMOUS POSTINGS</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >The Site hosts require that users post information under their actual given name. We ask that our
-                participating users identify themselves in this manner, and if you object, we request that you refrain
-                from using the Site. We urge you to review your information regularly to ensure that it is correct and
-                complete. If you believe that any of your information is incorrect, or if you have any questions
-                regarding this Privacy Policy, please contact us using any of the methods set forth in the “Contact Us”
-                section below.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >PERSONAL INFORMATION COLLECTED</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >For the purposes of this Privacy Policy, “personal information” shall mean individually identifiable
-                information from or about an individual that may be associated with or used to identify an individual.
-                We collect personal information when you access certain of the Site Offerings and complete the required
-                information request form and/or otherwise provide such information to us. The type of information we
-                collect may include, but is not limited to: (a) the User’s e-mail address; (b) the User’s full name; (c)
-                the User’s telephone number; (d) personal data required to verify your identity; (e) aggregated personal
-                data related to your visits to the Site; and (f) any other information collected via the Contact
-                Services form.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >USE OF INFORMATION COLLECTED</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >By submitting your personal information by and through the Site Offerings, you agree that we may share,
-                sell, rent, lease or otherwise provide that personal information to any third party for any purpose
-                permitted by law, and we may work with other businesses to bring selected retail opportunities to our
-                Users. These businesses and third parties may include, but are not limited to: (a) providers of direct
-                marketing services and applications, including lookup and reference, data enhancement, suppression and
-                validation; (b) e-mail marketers; (c) telemarketers (where permitted by applicable law); and (d) direct
-                marketers. We will also use your personal information to send you promotional messages regarding various
-                Company products and/or services, as well as third party products and/or services that we think may be
-                of interest to you.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >We use the personal information collected to personalize your experience with the Site and to
-                facilitate the delivery of the Site Offerings to you. We will also use your personal information for
-                customer service, to provide you with information that you may request, respond to you, customize your
-                experience with our services and/or contact you when necessary related to your use of services or the
-                Site.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >You agree that we may contact you at any time with updates and/or any other information that we may
-                deem appropriate for you to receive in connection with your continued use of the Site Offerings, and to
-                keep you informed of our other products and services.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >We may also employ third parties to perform certain functions on our behalf. Examples include sending
-                direct and electronic mail, removing duplicate information from User lists, analyzing and collecting
-                data, providing marketing analysis, data processing, data storage, payment services, technology support
-                and services, customer service, risk solution provision, fraud prevention, and reporting. The agents
-                performing these limited functions on our behalf shall have access to our Users’ personal information as
-                needed to perform these functions for us, but we do not permit them to use User personal information for
-                other purposes. These third party partners are legally required to keep your information private and
-                secure. We may also share some of your personal information as otherwise permitted or required by law or
-                as authorized by you.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >We may also use your personal information for internal business purposes, such as analyzing and
-                managing our service offerings. We may also combine the information we have gathered about you with
-                information from other sources.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >By submitting your personal information through the Site, you agree that such act constitutes an
-                inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR §310 et seq.),
-                as amended from time to time (the “Rule”) and applicable state do-not-call regulations. As such, even if
-                your telephone number may be listed on the Federal Trade Commission’s Do-Not-Call List, and/or on
-                applicable state do-not-call lists, we retain the right to contact you via telemarketing in
-                accordance</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Where you provide “prior express written consent” within the meaning of the Telephone Consumer
-                Protection Act (47 USC § 227), and its implementing regulations adopted by the Federal Communications
-                Commission (47 CFR § 64.1200), as amended from time-to-time (“TCPA”), you consent to receive telephone
-                calls, including artificial voice calls, pre-recorded messages and/or calls (including SMS text
-                messages) delivered via automated technology, to the telephone number(s) that you provided. Please note
-                that you are not required to provide this consent to obtain access to the Site or our services, and your
-                consent simply allows us to contact you via these means. Please be advised that by agreeing to this
-                Privacy Policy, you are obligated to inform us immediately if and when the telephone number that you
-                have previously provided to us changes. Without limiting the foregoing, if you: (i) have your telephone
-                number reassigned to another person or entity; (ii) give up your telephone number so that it is no
-                longer used by you; (iii) port your telephone number to a landline or vice versa; or (iv) otherwise stop
-                using that telephone number for any reason (collectively “Phone Number Change”), you agree that you
-                shall promptly notify Company of the Phone Number Change through one of the contact methods set forth in
-                the “Contact Us” section below.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >We reserve the right to release current or past personal and non-personal information (defined below):
-                (A) if we believe that the Site Offerings are being or have been used in violation of the Terms and
-                Conditions or to commit unlawful acts or fraud; (B) if the information is subpoenaed; provided, however,
-                that, where permitted by applicable law, we shall provide you with e-mail notice, and opportunity to
-                challenge the subpoena, prior to disclosure of any personal information pursuant to a subpoena; or (C)
-                if we are sold, merge with a third party, are acquired or are the subject of bankruptcy proceedings;
-                provided, however, that if Company is involved in a bankruptcy proceeding, merger, acquisition or sale
-                of all or a portion of its assets, you will be notified via email and/or a prominent notice on the Site
-                of any change in ownership or uses of your personal information, as well as any choices that you may
-                have regarding your personal information; (D) when we believe that disclosure is necessary to protect
-                our rights or as appropriate or necessary to take precautions against liability; (E) to investigate and
-                defend against any third party claims or allegations; (F) to assist government enforcement agencies; (G)
-                to protect the security or integrity of the Website or our services; and (H) to protect the rights,
-                property or personal safety of the Company, its users, agents, or others. The examples contained within
-                this Privacy Policy are illustrations and are not intended to be exclusive.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >You hereby consent to the disclosure of any record or communication to any third-party when we, in our
-                sole discretion, determine the disclosure to be appropriate including, without limitation, sharing your
-                e-mail address with third-parties for suppression purposes in compliance with applicable law, including
-                the CAN-SPAM Act of 2003, as amended from time to time. Users should also be aware that courts of
-                equity, such as U.S. Bankruptcy Courts, might have the authority under certain circumstances to permit
-                personal information to be shared or transferred to third parties without permission. .</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >NON-PERSONAL INFORMATION COLLECTED</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >In addition, we may collect information such as your Internet Protocol (IP) address and/or domain, the
-                type and version of your Internet browser software and operating system you use, the date, time, and
-                duration of your online access, the specific pages, buttons, images, links, and forms that you access
-                while visiting the Website, the type of device you use to access the Website (such as a personal
-                computer, iPhone, or iPad), your mobile carrier and/or your Internet Service Provider (ISP). Collection
-                of this data alone does not personally identify you. We use the non-personal information that we collect
-                to improve the design and content of the Site Offerings and to enable us to personalize your Internet
-                experience. We also may use this information in the aggregate to analyze usage of the Site
-                Offerings.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >COOKIES</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >When a User visits the Site, we send one (1) or more cookies and/or gif files (collectively, “Cookies”)
-                to assign an anonymous, unique identifier to your computer. A Cookie is a piece of data stored on your
-                hard drive or browser containing non-personally identifiable information about you. To find out more
-                about Cookies, please visit cookiecentral.com. We use Cookies to enhance your experience at the Site and
-                to improve the quality of the Site Offerings, including for storing User preferences and tracking
-                Site-User trends (such as pages opened and length of stay at the Site). For security purposes, all of
-                this information is stored in encrypted form. No personal information about you is stored. We reserve
-                the right to retain Cookie data indefinitely.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >You can set your web browser to inform you when cookies are sent, or to prevent cookies from being sent
-                altogether. Please note that if you decline to use cookies, you may experience reduced functionality and
-                slower Site response times. In some instances, declining to use our authentication-related cookies may
-                prevent you from using some or all of the Site functions and services.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Company reserves the right to transfer and/or sell aggregate or group data about Users of the Site
-                Offerings for lawful purposes. Aggregate or group data is data that describes the demographics, usage
-                and other characteristics of Site Offerings Users as a group, without disclosing personally identifiable
-                information.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >THIRD-PARTY WEBSITES</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >This Site may contain links to third-party owned and/or operated websites. The Company is not
-                responsible for the privacy practices or the content of such websites. In some cases, you may be able to
-                make a purchase through one of these third-party websites. In these instances, you may be required to
-                provide certain information, such as a credit card number, to register or complete a transaction at such
-                website. These third-party websites have separate privacy and data collection practices and Company has
-                no responsibility or liability relating to them.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >SECURITY</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >The security of your information is very important to us, and we take commercially reasonable steps to
-                safeguard such information. When Users make personal information available to us, their personal
-                information is protected both online and offline (to the extent that we maintain any personal
-                information offline). Practices include encryption and authentication tools to maintain the
-                confidentiality of user information including secure socket layer (SSL) technology; limits on, to the
-                extent possible, who or what can access your user information; and the use of cookies to help
-                anonymously recognize you as a repeat visitor and to track Site traffic patterns.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Further, access to your personal information is strictly limited, and we take reasonable measures to
-                ensure that your personal information is not accessible to the public. All of your personal information
-                is restricted in our offices, and the offices of our third party service providers. Only employees or
-                third party agents who have a legitimate business need for User personal information to perform a
-                specific job are granted access to personal information and are required to adhere to our privacy
-                protocols. The servers that we store User personal information on are kept in a secure physical
-                environment. The Website is built upon a secure infrastructure with multiple layers of protection, and
-                we use industry-standard encryption technologies to safeguard your information. We also have security
-                measures in place to protect the loss, misuse and alteration of personal information under our control.
-                You also play a critical role in protecting your information by maintaining up-to-date computer security
-                protections. Steps you take to ensure the security of your computer, computer passwords, or other
-                personal identifier authentication mechanisms are key components of the protection of your personal
-                information.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >However, while we take every reasonable precaution available to protect your data, no storage facility,
-                technology, software, security protocols or data transmission over the Internet or via wireless networks
-                is fully secured. We cannot guarantee the security of any information transmitted, generated or stored
-                in connection with the Site or the security of your personal information. Any transmission of data at or
-                through the Site, other Site Offerings or otherwise via the Internet or wireless networks, is done at
-                your own risk.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >In compliance with applicable federal and state laws, we shall notify you and any applicable regulatory
-                agencies in the event that we learn of an information security breach with respect to your personal
-                information. You will be notified via e-mail in the event of such a breach. Please be advised that
-                notice may be delayed in order to address the needs of law enforcement, determine the scope of network
-                damage, and to engage in remedial measures.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >CHILDREN ONLINE PRIVACY PROTECTION ACT AND CAN-SPAM ACT</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Visitors under eighteen (18) years of age are not permitted to use and/or submit their personal
-                information at the Site. Company does not knowingly solicit or collect information from visitors under
-                eighteen (18) years of age. Company encourages parents and guardians to spend time online with their
-                children and to participate and monitor the interactive activities of their children. The Federal Trade
-                Commission enforces the Children Online Privacy Protection Act (COPPA) which details what operators of
-                websites and online services must do to protect children’s privacy and safety online. For more
-                information on COPPA, please visit the Federal Trade Commission website at www.ftc.gov. We also abide by
-                the CAN-SPAM Act, which sets rules for commercial email, establishes requirements for commercial
-                messages, gives recipients the right to stop receiving emails, and has tough penalties for
-                violations.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >OPT-OUT/UNSUBSCRIBE</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >To opt-out of receiving e-mail and other forms of communications from us, you can: (a) follow the
-                instructions included in the applicable e-mail message or other communication; or (b) e-mail us at:
-                p32nicky@gmail.com.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Notwithstanding the foregoing, we may continue to contact you to communicate information relating to
-                your request for Site Offerings, as well as to respond to any inquiry or request made by you. To opt-out
-                of receiving Site Offerings-related and/or inquiry response-related messages from Company, you must
-                cease requesting and/or utilizing the Site Offerings and/or cease submitting inquiries to Company, as
-                applicable.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >DELETING, MODIFYING AND UPDATING YOUR INFORMATION</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >At your request, we will: (a) inform you of what personal information we have on file for you; (b)
-                amend the personal information that we have on file for you; and/or (c) remove personal information that
-                you have provided to us, or that we have collected. You may do so by e-mailing us at:
-                p32nicky@gmail.com . We ask individual Users to identify themselves and the information
-                requested to be accessed, corrected or removed before processing such requests, and, to the extent
-                permitted by applicable law, we may decline to process requests that are unreasonably repetitive or
-                systematic, require disproportionate technical effort, jeopardize the privacy of others or would be
-                extremely impractical (for instance, requests concerning information residing on backup tapes).</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Please be advised that deleting your personal information may terminate your access to certain of the
-                Site Offerings. If you wish to continue using the full complement of Site Offerings, you may not be able
-                to delete all of the personal information that we have on file for you.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Please be further advised that, after you delete your personal information, residual copies may take a
-                period of time before they are deleted from our active servers and may remain in our backup
-                systems.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >TRANSFER OF PERSONAL INFORMATION INTERNATIONALLY</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Users located outside the United States may access the Site. If you choose to use the Site or access
-                its services from outside of the continental United States with laws governing data collection and use
-                that may differ from U.S. law, then please note that you are transferring your personal information
-                outside of those regions to the United States, and that by providing your personal information on or
-                through the Site, you consent to that transfer. Even if your jurisdiction does not have the same privacy
-                laws as the jurisdiction where our servers are located, we will treat your information as subject to the
-                protections described in this Privacy Policy.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >CLASS ACTIONS</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >BY USING THIS SITE, YOU WAIVE ANY RIGHT YOU MAY HAVE TO JOIN CLAIMS WITH THOSE OF OTHERS IN THE FORM OF
-                A CLASS ACTION OR SIMILAR PROCEDURE AGAINST THE COMPANY OR ITS AFFILIATES AND BUSINESS PARTNERS AND THAT
-                ANY DISPUTE WILL BE RESOLVED ONLY BY INDIVIDUAL ARBITRATION, UNLESS THE DISPUTE IS OTHERWISE ELIGIBLE TO
-                BE BROUGHT IN SMALL CLAIMS COURT.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >CHANGES TO THIS PRIVACY POLICY</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Company reserves the right to change or update this Privacy Policy at any time by posting a notice on
-                the Site that we are changing our Privacy Policy. If the manner in which we use personal information
-                changes, Company will notify Users by: (a) sending the modified policy to our Users via email; and/or
-                (b) by any other reasonable means acceptable under applicable state and federal law. You will have a
-                choice as to whether or not we use your information in this different manner and we will only use your
-                information in this different manner where you opt-in to such use.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >CONTACT US</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >If you have any questions about this Privacy Policy or our privacy practices in general, you may email
-                us as at: p32nicky@gmail.com; call us at: 321-948-5497.</span
-            >
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            &nbsp;
-        </p>
-        <p
-            dir="ltr"
-            style="
-                line-height: 1.38;
-                background-color: #ffffff;
-                margin-top: 0pt;
-                margin-bottom: 0pt;
-                padding: 0pt 0pt 8pt 0pt;
-            "
-        >
-            <span
-                style="
-                    font-size: 20px;
-                    font-family: Montserrat, sans-serif;
-                    color: black;
-                    background-color: transparent;
-                    font-weight: 400;
-                    font-style: normal;
-                    font-variant: normal;
-                    text-decoration: none;
-                    vertical-align: baseline;
-                    white-space: pre-wrap;
-                "
-                >Last Updated: March 27. 2023</span
-            >
-        </p>
-        <p>&nbsp;</p>
+        <br />
+
+        <h2>Collecting and Using Your Personal Data</h2>
+        <br />
+        <h3>Types of Data Collected</h3>
+        <br />
+
+        <p>Personal Data</p>
+        <p>
+            While using Our Service, We may ask You to provide Us with certain personally identifiable information that
+            can be used to contact or identify You. Personally identifiable information may include, but is not limited
+            to:
+        </p>
+        <ul>
+            <li>Email address</li>
+            <li>First name and last name</li>
+            <li>Phone number</li>
+            <li>Address, State, Province, ZIP/Postal code, City</li>
+            <li>Usage Data</li>
+        </ul>
+        <br />
+
+        <p>Usage Data</p>
+        <p>Usage Data is collected automatically when using the Service.</p>
+        <p>
+            Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address),
+            browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the
+            time spent on those pages, unique device identifiers and other diagnostic data.
+        </p>
+        <p>
+            When You access the Service by or through a mobile device, We may collect certain information automatically,
+            including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP
+            address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use,
+            unique device identifiers and other diagnostic data.
+        </p>
+        <p>
+            We may also collect information that Your browser sends whenever You visit our Service or when You access
+            the Service by or through a mobile device.
+        </p>
+        <br />
+
+        <p>Tracking Technologies and Cookies</p>
+        <p>
+            We use Cookies and similar tracking technologies to track the activity on Our Service and store certain
+            information. Tracking technologies used are beacons, tags, and scripts to collect and track information and
+            to improve and analyze Our Service. The technologies We use may include:
+        </p>
+        <ul>
+            <li>
+                Cookies or Browser Cookies. A cookie is a small file placed on Your Device. You can instruct Your
+                browser to refuse all Cookies or to indicate when a Cookie is being sent. However, if You do not accept
+                Cookies, You may not be able to use some parts of our Service. Unless you have adjusted Your browser
+                setting so that it will refuse Cookies, our Service may use Cookies.
+            </li>
+            <li>
+                Web Beacons. Certain sections of our Service and our emails may contain small electronic files known as
+                web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company,
+                for example, to count users who have visited those pages or opened an email and for other related
+                website statistics (for example, recording the popularity of a certain section and verifying system and
+                server integrity).
+            </li>
+        </ul>
+        <p>
+            Cookies can be "Persistent" or "Session" Cookies. Persistent Cookies remain on Your personal computer or
+            mobile device when You go offline, while Session Cookies are deleted as soon as You close Your web browser.
+        </p>
+
+        <br />
+        <h3>Use of Your Personal Data</h3>
+        <p>The Company may use Personal Data for the following purposes:</p>
+        <ul>
+            <li>To provide and maintain our Service , including to monitor the usage of our Service.</li>
+
+            <li>
+                To manage Your Account: to manage Your registration as a user of the Service. The Personal Data You
+                provide can give You access to different functionalities of the Service that are available to You as a
+                registered user.
+            </li>
+
+            <li>
+                For the performance of a contract: the development, compliance and undertaking of the purchase contract
+                for the products, items or services You have purchased or of any other contract with Us through the
+                Service.
+            </li>
+
+            <li>
+                To contact You: To contact You by email, telephone calls, SMS, or other equivalent forms of electronic
+                communication, such as a mobile application's push notifications regarding updates or informative
+                communications related to the functionalities, products or contracted services, including the security
+                updates, when necessary or reasonable for their implementation.
+            </li>
+
+            <li>
+                To provide You with news, special offers and general information about other goods, services and events
+                which we offer that are similar to those that you have already purchased or enquired about unless You
+                have opted not to receive such information.
+            </li>
+
+            <li>To manage Your requests: To attend and manage Your requests to Us.</li>
+
+            <li>
+                For business transfers: We may use Your information to evaluate or conduct a merger, divestiture,
+                restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our assets,
+                whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which
+                Personal Data held by Us about our Service users is among the assets transferred.
+            </li>
+
+            <li>
+                For other purposes : We may use Your information for other purposes, such as data analysis, identifying
+                usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our
+                Service, products, services, marketing and your experience.
+            </li>
+        </ul>
+        <br />
+        <p>We may share Your personal information in the following situations:</p>
+        <ul>
+            <li>
+                With Service Providers: We may share Your personal information with Service Providers to monitor and
+                analyze the use of our Service, to contact You.
+            </li>
+            <li>
+                For business transfers: We may share or transfer Your personal information in connection with, or during
+                negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of
+                Our business to another company.
+            </li>
+            <li>
+                With Affiliates: We may share Your information with Our affiliates, in which case we will require those
+                affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other
+                subsidiaries, joint venture partners or other companies that We control or that are under common control
+                with Us.
+            </li>
+            <li>
+                With business partners: We may share Your information with Our business partners to offer You certain
+                products, services or promotions.
+            </li>
+            <li>
+                With other users: when You share personal information or otherwise interact in the public areas with
+                other users, such information may be viewed by all users and may be publicly distributed outside.
+            </li>
+            <li>
+                With Your consent : We may disclose Your personal information for any other purpose with Your consent.
+            </li>
+        </ul>
+        <br />
+
+        <h3>Retention of Your Personal Data</h3>
+        <p>
+            The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this
+            Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal
+            obligations (for example, if we are required to retain your data to comply with applicable laws), resolve
+            disputes, and enforce our legal agreements and policies.
+        </p>
+        <p>
+            The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for
+            a shorter period of time, except when this data is used to strengthen the security or to improve the
+            functionality of Our Service, or We are legally obligated to retain this data for longer time periods.
+        </p>
+        <br />
+
+        <h3>Transfer of Your Personal Data</h3>
+        <p>
+            Your information, including Personal Data, is processed at the Company's operating offices and in any other
+            places where the parties involved in the processing are located. It means that this information may be
+            transferred to — and maintained on — computers located outside of Your state, province, country or other
+            governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.
+        </p>
+
+        <p>
+            Your consent to this Privacy Policy followed by Your submission of such information represents Your
+            agreement to that transfer.
+        </p>
+
+        <p>
+            The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in
+            accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization
+            or a country unless there are adequate controls in place including the security of Your data and other
+            personal information.
+        </p>
+        <br />
+
+        <h3>Delete Your Personal Data</h3>
+        <p>
+            You have the right to delete or request that We assist in deleting the Personal Data that We have collected
+            about You.
+        </p>
+
+        <p>Our Service may give You the ability to delete certain information about You from within the Service.</p>
+
+        <p>
+            You may update, amend, or delete Your information at any time by signing in to Your Account, if you have
+            one, and visiting the account settings section that allows you to manage Your personal information. You may
+            also contact Us to request access to, correct, or delete any personal information that You have provided to
+            Us.
+        </p>
+
+        <p>
+            Please note, however, that We may need to retain certain information when we have a legal obligation or
+            lawful basis to do so.
+        </p>
+        <br />
+
+        <h3>Disclosure of Your Personal Data</h3>
+        <br />
+
+        <p>Business Transactions</p>
+
+        <p>
+            If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We
+            will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy
+            Policy.
+        </p>
+        <br />
+
+        <p>Law enforcement</p>
+
+        <p>
+            Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so
+            by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+        </p>
+        <br />
+
+        <p>Other legal requirements</p>
+
+        <p>The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:</p>
+        <ul>
+            <li>Comply with a legal obligation</li>
+            <li>Protect and defend the rights or property of the Company</li>
+            <li>Prevent or investigate possible wrongdoing in connection with the Service</li>
+            <li>Protect the personal safety of Users of the Service or the public</li>
+            <li>Protect against legal liability</li>
+        </ul>
+        <br />
+
+        <h3>Security of Your Personal Data</h3>
+        <p>
+            The security of Your Personal Data is important to Us, but remember that no method of transmission over the
+            Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable
+            means to protect Your Personal Data, We cannot guarantee its absolute security.
+        </p>
+        <br />
+
+        <h2>Children's Privacy</h2>
+        <p>
+            Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable
+            information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your
+            child has provided Us with Personal Data, please contact Us. If We become aware that We have collected
+            Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to
+            remove that information from Our servers.
+        </p>
+
+        <p>
+            If We need to rely on consent as a legal basis for processing Your information and Your country requires
+            consent from a parent, We may require Your parent's consent before We collect and use that information.
+        </p>
+        <br />
+
+        <h2>Links to Other Websites</h2>
+        <p>
+            Our Service may contain links to other websites that are not operated by Us. If You click on a third party
+            link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy
+            of every site You visit.
+        </p>
+
+        <p>
+            We have no control over and assume no responsibility for the content, privacy policies or practices of any
+            third party sites or services.
+        </p>
+        <br />
+
+        <h2>Changes to this Privacy Policy</h2>
+        <p>
+            We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new
+            Privacy Policy on this page.
+        </p>
+
+        <p>
+            We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming
+            effective and update the "Last updated" date at the top of this Privacy Policy.
+        </p>
+
+        <p>
+            You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy
+            are effective when they are posted on this page.
+        </p>
+        <br />
+
+        <h2>Contact Us</h2>
+        <p>If you have any questions about this Privacy Policy, You can contact us:</p>
+        <ul>
+            <li>By email: p32nicky@gmail.com</li>
+        </ul>
     </section>
 </template>
 
 <style scoped>
 * {
-    font-size: 20px;
+    font-size: 22px;
 }
 
 section {
@@ -3392,16 +382,23 @@ section {
 ul,
 li {
     overflow: visible;
-    font-size: 20px;
+    margin: 10px;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+h2 {
+    font-weight: bold;
 }
 
 h3 {
-    font-weight: bold;
-    font-size: 20px;
+    text-decoration: underline;
 }
 
 p {
-    font-size: 20px;
     margin: 15px 0;
 }
 .underline {

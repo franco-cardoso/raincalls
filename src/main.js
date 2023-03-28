@@ -5,8 +5,6 @@ import VueGtag from "vue-gtag";
 import { createRouter, createWebHistory } from "vue-router";
 import Home from "./views/Home.vue";
 import Policy from "./views/Policy.vue";
-import CalPolicy from "./views/CalPolicy.vue";
-import Terms from "./views/Terms.vue"
 
 const routes = [
     {
@@ -17,14 +15,6 @@ const routes = [
         path: "/privacy-policy",
         component: Policy,
     },
-    {
-        path: "/california-privacy-policy",
-        component: CalPolicy,
-    },
-    {
-        path: "/terms-and-conditions",
-        component: Terms,
-    }
 ];
 
 const router = createRouter({
