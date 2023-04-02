@@ -14,7 +14,7 @@
                     partner you need to make it "Rain Calls" on your business.
                 </div>
                 <div class="img-wrapper">
-                    <img src="../../assets/reporting.png" alt="" />
+                    <img src="../../assets/reporting.png" alt="" loading="lazy" />
                 </div>
             </div>
         </div>
@@ -101,7 +101,8 @@ section {
 img {
     width: 65%;
     border-radius: 15px;
-    border: solid rgba(0, 0, 0, 0.411)}
+    border: solid rgba(0, 0, 0, 0.411);
+}
 
 h1 {
     font-size: 40px;
@@ -110,19 +111,19 @@ h1 {
     text-align: center;
 }
 
-@media (max-width:1024px) {
+@media (max-width: 1024px) {
     img {
         width: 100%;
     }
 }
 
-@media (max-width:920px) {
+@media (max-width: 920px) {
     .content {
         margin: 0 3rem;
     }
 }
 
-@media (max-width:720px) {
+@media (max-width: 720px) {
     .content {
         margin: 0 1rem;
     }
