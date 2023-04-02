@@ -5,6 +5,7 @@ import VueGtag from "vue-gtag";
 import { createRouter, createWebHistory } from "vue-router";
 import Home from "./views/Home.vue";
 import Policy from "./views/Policy.vue";
+import NotFound from "./views/NotFound.vue";
 
 const routes = [
     {
@@ -15,6 +16,7 @@ const routes = [
         path: "/privacy-policy",
         component: Policy,
     },
+    { path: "/:pathMatch(.*)*", name: "NotFound", component: NotFound },
 ];
 
 const router = createRouter({

@@ -10,7 +10,7 @@
                     drive success. Rain Calls is a team of experienced lead generation and pay-per-call industry
                     veterans with over 10 years of experience in a diverse range of verticals. Our expertise, commitment
                     to excellence, and impressive track record have consistently amazed our clients and helped them
-                    achieve their Cost Per Acquisition (CPA) goals. We're not just another marketing agency; we're the
+                    achieve their Cost Per Acquisition (CPA) goals. We're not just another marketing agency - We're the
                     partner you need to make it "Rain Calls" on your business.
                 </div>
                 <div class="img-wrapper">
@@ -74,7 +74,7 @@ section {
 .bgdiv {
     width: 100%;
     height: 100%;
-    background-image: url("../../assets/rain.jpg");
+    background-image: url("../../assets/rain.webp");
     background-size: cover;
     background-repeat: no-repeat;
     position: absolute;

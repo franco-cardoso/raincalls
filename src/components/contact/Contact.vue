@@ -54,7 +54,7 @@ a {
     cursor: pointer;
     transition: 1s;
     font-size: 22px;
-    background-color: #4ac99a;
+    background-color: #339671;
     padding: 20px;
     color: rgb(235, 235, 235);
     border-radius: 4px;
@@ -63,7 +63,7 @@ a {
 }
 
 a:hover {
-    background-color: #28a577;
+    background-color: #2ab482;
 }
 
 .buttons {

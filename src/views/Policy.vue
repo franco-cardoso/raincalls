@@ -325,7 +325,7 @@ import Banner from "../components/banner/Banner.vue";
             Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to
             remove that information from Our servers.
         </p>
-
+        
         <p>
             If We need to rely on consent as a legal basis for processing Your information and Your country requires
             consent from a parent, We may require Your parent's consent before We collect and use that information.
