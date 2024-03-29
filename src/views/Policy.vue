@@ -365,7 +365,7 @@ import Banner from "../components/banner/Banner.vue";
         <h2>Contact Us</h2>
         <p>If you have any questions about this Privacy Policy, You can contact us:</p>
         <ul>
-            <li>By email: p32nicky@gmail.com</li>
+            <li>By email: sample@email.com</li>
         </ul>
     </section>
 </template>

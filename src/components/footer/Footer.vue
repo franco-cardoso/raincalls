@@ -6,12 +6,12 @@
             <div class="f1-content">
                 <div>
                     <h3>Email</h3>
-                    <a href="mailto: p32nicky@gmail.com">p32nicky@gmail.com</a>
+                    <a href="mailto: ">sample@email.com</a>
                 </div>
 
                 <div>
                     <h3>Phone</h3>
-                    <span>321-948-5497</span>
+                    <span>000-000-0000</span>
                 </div>
             </div>
         </div>
