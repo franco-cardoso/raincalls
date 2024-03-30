@@ -5,8 +5,8 @@ import { useRoute } from "vue-router";
 </script>
 
 <template>
-    <div class="header-container" :class="route.path === '/' ? 'hc-dyn' : 'hc-fixed'">
-        <div class="logo-wrapper" :class="route.path === '/' ? 'lw-dyn' : 'lw-fixed'">
+    <div class="header-container" :class="['/raincalls/', '/raincalls'].includes(route.path) ? 'hc-dyn' : 'hc-fixed'">
+        <div class="logo-wrapper" :class="['/raincalls/', '/raincalls'].includes(route.path) ? 'lw-dyn' : 'lw-fixed'">
             <img class="logo" :src="Logo" alt="" />
         </div>
         <div>
