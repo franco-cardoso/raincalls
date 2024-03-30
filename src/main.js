@@ -9,7 +9,7 @@ import NotFound from "./views/NotFound.vue";
 
 const routes = [
     {
-        path: "/",
+        path: "/raincalls",
         component: Home,
     },
     {
