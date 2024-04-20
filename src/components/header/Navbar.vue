@@ -5,10 +5,10 @@ import { useRoute } from "vue-router";
 <template>
     <nav>
         <ul>
-            <li><a :class="route.path === '/' ? 'a-dyn' : 'a-fixed'" href="/#home">HOME</a></li>
-            <li><a :class="route.path === '/' ? 'a-dyn' : 'a-fixed'" href="/#specialties">OUR SPECIALTIES</a></li>
-            <li><a :class="route.path === '/' ? 'a-dyn' : 'a-fixed'" href="/#info">WHY US</a></li>
-            <li><a :class="route.path === '/' ? 'a-dyn' : 'a-fixed'" href="/#contact">CONTACT US</a></li>
+            <li><a :class="['/raincalls/', '/raincalls'].includes(route.path) ? 'a-dyn' : 'a-fixed'" href="/#home">HOME</a></li>
+            <li><a :class="['/raincalls/', '/raincalls'].includes(route.path) ? 'a-dyn' : 'a-fixed'" href="/#specialties">OUR SPECIALTIES</a></li>
+            <li><a :class="['/raincalls/', '/raincalls'].includes(route.path) ? 'a-dyn' : 'a-fixed'" href="/#info">WHY US</a></li>
+            <li><a :class="['/raincalls/', '/raincalls'].includes(route.path) ? 'a-dyn' : 'a-fixed'" href="/#contact">CONTACT US</a></li>
         </ul>
     </nav>
 </template>
